@@ -1,0 +1,3148 @@
+Speciation and sex-biased gene
+expression in the scarce swallowtails
+
+
+
+Chapter 1
+General introduction
+1.1
+
+Speciation and reproductive isolation, what is a barrier to gene flow?
+
+Speciation is the evolution of reproductive isolation between populations (Coyne
+et al., 2004). Darwin (1859) – in ’The Origin of Species’ postulated that over
+time species may arise simply as a consequence of adaptation by natural selection. Although early thinking on speciation grappled with the fundamental paradox of selection leading to reductions in fitness (Coyne et al., 2004), it is not until
+Dobzhansky (1935) highlights the incongruence between the concept of discrete
+species and the continuous nature of evolution as proposed by Darwin that a concentrated interest in the process of speciation emerges. Here, Dobzhansky states
+that “A causal analysis of this phenomenon [read: the formation of discrete groups
+of organisms] is one of the major tasks of the biological sciences” and goes on
+to discuss how this may be achieved by a reduction in the amount of interbreeding between populations of individuals, i.e. reproductive isolation. This begs the
+question, which processes drive reproductive isolation between closely related
+populations?
+In his book ’Genetics and the Origin of Species’ Dobzhansky (1937) highlights that
+while organisms may fail to interbreed due to physical separation as a result of
+geographic isolation or asynchronous breeding times, it is physiological mechanisms which ultimately lead to ’true’ species differentiation. This can be achieved
+through reproductive barriers that act before or after mating (known as premating
+and postmating mechanisms of reproductive isolation respectively) (Coyne et al.,
+2004). Firstly, premating barriers are traits which reduce the ability of differenti1
+
+
+
+CHAPTER 1
+ated individuals to court or copulate in the first instance. Divergence in mating
+traits (Kaneshiro, 1980), e.g. female mate choice (Verzijden et al., 2005), or pollination (Kay et al., 2009), may lead to isolation between populations as a consequence of behaviour. Alternatively, structural changes in the shape or function
+of genital structures may result in failed copulation, also known as the ’lock and
+key’ model (Robertson, 1988). Secondly, postmating barriers may confer isolation
+by reducing the fitness of hybrids, either by reducing survival or mating success.
+As hybrids are a mosaic of alleles that independently arose and fixed in different
+populations, novel combinations may lead to reduced fitness. Described independently by a number of scientists (see Orr (1996)), Bateson–Dobzhansky–Muller
+incompatibilities (BDMIs) are a model of intrinsic genetic incompatibilities which
+may result in inviable or infertile offspring produced through mating between different populations. Having evolved independently in separate populations, two
+alleles may produce negative epistatic interactions when they are expressed in a
+single individual (Figure 1.1). Importantly, BDMIs are a null model of how reproductive isolation can arise because no divergent selective pressures are required.
+Instead, BDMIs may fix simply due to genetic drift or adaptation to the same selective pressures (Wu, 1992) and we expect them to accumulate quadratically as
+divergence increases (Dobzhansky, 1934; Orr, 1996). This ’snowball effect’ is
+due to the fact that the probability of speciation is a function of the number of loci
+fixing for new alleles squared, which has been demonstrated in Solanum (Moyle
+& Nakazato, 2010) and Drosophila (Matute et al., 2010).
+Speciation under the BDMI null model is slow, requiring long periods of allopatry (on the order of Ne generations). However, the addition of local adaptation or
+runaway selection may accelerate this process. Darwin proposed how sexual selection may lead to differentiation in ’The Descent of Man’ (Darwin, 1871). We now
+understand that divergent evolution either through natural or sexual selection may
+reduce (genetically) local migration rates via differential evolution of premating reproductive traits and/or the accumulation of novel BDMIs. This may occur directly,
+
+2
+
+
+
+CHAPTER 1
+
+Figure 1.1. Illustration of the Bateson–
+Dobzhansky–Muller
+incompatibility
+(BDMI) model. We begin (i) with a
+population of diploids where all individuals are fixed for one allele at both
+the first and the second locus (blue
+and red respectively). Secondly (ii),
+the population splits into two with no
+migration between them. A mutation
+at the first locus begins to segregate
+in one population, and a different
+mutation at the second locus begins to
+segregate in the alternative population.
+Thirdly (iii), both new mutations fix at
+their respective loci in their respective
+populations in the continued absence
+of migration. There are no negative
+fitness consequences to possessing
+either novel mutation in absence of
+the other. Finally (iv), migration resumes bringing together each novel
+haplotype, and negative epistatic
+interactions between the novel alleles
+reduce the fitness of hybrid individuals.
+such as via reinforcement, or indirectly if evolving traits confer reproductive isolation coincidentally, or through pleiotropic or linked selective effects (Coyne et al.,
+2004). Despite this considerable suite of priors developed over almost a century,
+we still do not know how often speciation occurs under a null BDMI model or via
+divergent/sexual selection.
+
+1.2
+
+How does speciation occur?
+
+Whilst it is clear how allopatric speciation might proceed (Coyne et al., 2004), it remains difficult to infer both the geographic and demographic relationships between
+diverging populations throughout their speciation history. During the early history
+
+3
+
+
+
+CHAPTER 1
+of the field, the leading paradigm was that speciation most frequently occurs in
+absence of gene flow and that divergence in the face of gene flow is prohibitively
+unlikely (Futuyma & Mayer, 1980). This hotly debated topic, however, has been
+turned on its head over the last few decades (Bolnick & Fitzpatrick, 2007). In the
+genomic era, substantial evidence is accumulating for hybridisation and introgression between many closely related pairs of species, and as such, speciation in the
+face of gene flow may even be the norm (Hey & Nielsen, 2004; Nosil, 2008; Pinho
+& Hey, 2010; Papadopulos et al., 2011; Feder et al., 2012; Martin et al., 2013;
+Rutherford et al., 2018; Roux et al., 2016; Hirase et al., 2021).
+If speciation with gene flow is common, how might barriers accumulate? Assuming that diverging species are adapting independently to their respective local conditions (which do not need to differ under the BDMI model), strong gene flow may
+overcome selection and hinder local adaptation (Lenormand, 2002). If selection
+is sufficiently strong, then we expect that local adaptation and differentiation may
+occur and persist despite gene flow (Coyne et al., 2004). Barrier regions may then
+grow under a divergence hitchhiking model (Feder et al., 2012), where selected
+loci reduce local migration rates across linked regions, allowing reproductive isolation to accumulate by facilitating weaker adaptive selection.
+From a genomic perspective, features which reduce recombination rates (such
+as partial hemizygosity, structural rearrangements, or more broadly variation in
+recombination rate) may reduce effective gene flow locally in the genome, further facilitating differentiation (White, 1978; Schluter & Rieseberg, 2022; Coyne,
+1992). Chromosomal rearrangements such as inversions may have driven speciation in some plant and gastropod systems (Huang & Rieseberg, 2020; Westram
+et al., 2018), and recent evidence from flies and butterflies suggests local migration rates are relatively diminished at rearranged loci (Mackintosh et al., 2022b;
+Poikela et al., 2022b). Whether this is down to the enhancement of differentiating forces or restriction of homogenizing forces is still up for debate (Nachman &
+Payseur, 2012). Additionally, we still do not know to what extent different genomic
+4
+
+
+
+CHAPTER 1
+regions including coding sequences, transposable elements, and rearrangements
+contribute to reproductive isolation. Thus, if speciation with gene flow is common,
+a complete understanding of the process of speciation requires knowledge of the
+nature and genomic architecture of barriers to gene flow.
+
+1.3
+
+Speciation via differential evolution between the sexes
+
+The evolutionary forces underpinning variation in evolution between the sexes
+have long been postulated as a potential source of reproductive isolation. Darwin
+(1871) suggested in ’The Descent of Man’ that mating competition may drive the
+evolution of new varieties, highlighting how ’sexually selected’ characteristics often differ between closely related species. Later, West-Eberhard (1983) extended
+this framework to encompass sexual selection in social competitions other than
+for access to mates and clearly delineated how intraspecific sexual selection may
+drive speciation in allopatry. These ideas are supported by evidence for the rapid
+divergence of traits involved with social competition, and the correlation between
+mating system (as a proxy for the strength of sexual selection and/or sexual antagonism) and the exaggeration of competitive phenotypes (West-Eberhard, 1983).
+As the traits under consideration are directly correlated with mating success, hybrids are likely to have lower reproductive fitness than individuals from each respective parental population.
+Studies across a number of taxa including birds (Barraclough et al., 1995; Price,
+1998), sticklebacks (Boughman, 2001), and crickets (Mendelson & Shaw, 2005),
+have concluded that sexual selection is likely to contribute to reproductive isolation. In particular, evidence has accumulated in the form of macro-evolutionary
+studies investigating speciation rates in clades experiencing various degrees of
+sexual selection by proxy. For example, Arnqvist et al. (2000) demonstrates that
+both sexual selection and postmating sexual conflict are associated with clades
+with particularly rapid speciation rates. However, Panhuis et al. (2001) argued
+that this approach fails to infer sexual selection confidently and directly. Ritchie
+5
+
+
+
+CHAPTER 1
+(2007) highlights that evidence is mixed amongst theoretical, experimental, and
+phylogenetic studies, and that under some models, sexual selection may even
+oppose the process of speciation. He suggests that it seems unlikely for sexual
+selection alone to drive speciation but instead acts in concert with natural selection and genetic drift, a view that is further supported in a theoretical model by van
+Doorn et al. (2009) and has been reiterated over the last decade (Mendelson &
+Safran, 2021; Servedio & Boughman, 2017).
+Another important aspect of sexual dimorphism which bears relevance for speciation is the sex chromosomes. Coyne & Orr (1989) in a meta-analysis investigating
+patterns of speciation across pairs of Drosophila species highlight two phenomena that have been termed “the two rules of speciation”: 1) Haldane’s rule (Haldane, 1922), the observation that the heterogametic sex is typically inviable as
+a hybrid between two species, and ii) the large X (or Z) effect, which states that
+the sex chromosomes will have a disproportionate effect on reproductive isolation
+relative to the rest of the genome. These are likely to be driven by dominance
+effects resulting from partial hemizygosity (Turelli & Orr, 1995), faster evolution
+of males (Wu & Davis, 1993), or faster sex chromosome evolution (Charlesworth
+et al., 1987) (see chapter 4 for a detailed discussion). Whilst “the two rules of speciation” appear to have surprisingly general relevance for patterns of speciation
+(Coyne & Orr, 1989), the underlying mechanisms, and how they might vary across
+taxa remains unclear. This is hampered by the fact that due to the considerable
+difficulty of demonstrating them directly (which requires viable hybrids), evidence
+for the large X/Z is often indirect and from population genetic summary statistics
+(Presgraves, 2018).
+
+1.4
+
+The role of sex-biased gene expression in speciation
+
+Not only do males and females often differ in their genomes, but they differ in
+which and to what extent genes are transcribed (Ellegren & Parsch, 2007). Of
+interest to understanding speciation in general and this thesis, in particular, is the
+6
+
+
+
+CHAPTER 1
+observation that sex-biased genes (SBGs) appear to evolve more rapidly, at both
+the protein level and the expression level, than unbiased genes through positive
+selection (Ellegren & Parsch, 2007). Although SBGs underpin sexually dimorphic
+phenotypes, they may evolve through natural or sexual selection, as the evolution of sex-specific traits or variation may alter an individual’s fitness in a general
+sense, as well as its mating success (Ellegren & Parsch, 2007). However, the
+fact that positively selected SBGs tend to be concentrated in reproductive tissues
+hints at sexual selection or sexual antagonism as prominent contributors to sexbiased gene evolution (Ellegren & Parsch, 2007). Furthermore, the evolution of
+male-biased gene expression has been shown to be driven by sexual selection
+explicitly in birds (Harrison et al., 2015).
+This raises the question, of whether sex-biased genes – by virtue of their rapid
+rate of evolution – drive reproductive isolation between diverging species. It may
+be that in the early stages of species divergence barriers and incompatibilities
+may begin to accumulate at these rapidly evolving loci more quickly than in other
+regions of the genome. Perhaps surprisingly, the potential interaction between
+speciation and sex-biased gene expression has so far remained largely unexplored, and as such little is known about the consequences of divergent evolution
+at SBGs and the potential consequences of their faster evolution for the process
+of speciation. Hybrid male Drosophila have been shown to disproportionately
+misexpress male genes (Michalak & Noor, 2003), and recent experimental evidence has demonstrated that sexual selection, which may act upon sex-biased
+genes, can produce “islands of divergence” between lines of Drosophila pseudoobscura (Wiberg et al., 2021). There is also limited data on the rate of evolution
+of SBGs in non-model systems and even less from female heterogametic systems
+which provide a useful contrast with male heterogamety (see chapter 4). As SBGs
+likely evolve by sexual selection (Ellegren & Parsch, 2007), control phenotypes
+involved in prezygotic isolation and accumulate on the sex chromosomes (which
+have been demonstrated to have a considerable association with reproductive
+
+7
+
+
+
+CHAPTER 1
+isolation (Coyne, 1992)), the intersection of sex chromosome evolution, SBGs,
+and speciation genomics is an exciting direction for speciation research.
+In this thesis, I contribute to this topic by investigating the large Z effect, as well
+as measuring the extent to which fast-evolving sex-biased genes are associated
+with barriers to gene flow, using a pair of scarce swallowtail butterflies.
+
+1.5
+
+Land ahoy! Island of divergence or iceberg of background selection?
+
+So the question remains, how do we locate barriers to gene flow? One approach
+is to leverage the natural experiment of hybrid zones (Hewitt, 1988). At contact
+zones between closely related species, individuals from each species may successfully reproduce to form interspecific hybrids (Barton & Hewitt, 1985, 1989).
+The size and composition of such hybrid zones provides information on the extent of reproductive isolation, and we can investigate heterogeneity in fitness and
+movement across the hybrid zone, both in terms of individuals and genetic variation, to describe where gene flow does and does not occur (Barton, 1979). There
+is a rich history of research into hybrid zones (see Gompert et al. (2017) for a
+genomic perspective), however, investigating the process of speciation primarily
+through hybrid zones and hybridisation is likely to introduce biases in our understanding. Many closely related species do not form hybrid zones and there are
+large clades (e.g. Drosophila) for which no hybrid zones are known. Whilst the
+hybrid zones we observe today are a snapshot of a history of repeated separation
+and secondary contact, it may be that not all speciation events permit hybridisation. On the other hand, we have a limited understanding of hybrid zone collapse,
+and therefore do not understand to how often speciation is completed in hybrid
+zone-forming taxa. Thus, any complete understanding of speciation requires approaches to investigate divergence between taxa which do not currently hybridize,
+or where sampling hybrids is prohibitive.
+Instead of investigating patterns of introgression across hybrid zones, many stud-
+
+8
+
+
+
+CHAPTER 1
+ies attempt to leverage the effects of linkage disequilibrium to locate broad regions
+of the genome which are differentiated as a result of linkage to barrier loci (Cruickshank & Hahn, 2014). To date, many efforts to isolate barriers to gene flow in the
+genome have relied on ’genome scans’ of various summary statistics derived from
+the site frequency spectrum (SFS). Such approaches involve identifying loci with
+the greatest genetic divergence (dxy ) or differentiation (FST , see Equation 1.1 for a
+frequently adopted approximation) in windows across the genome and search for
+outlier regions, known as “islands of divergence” (as expected under divergence
+hitchhiking).
+
+FST ≈
+
+dxy − π̄
+dxy + π̄
+
+(1.1)
+
+Intuitively, if FST = 1 represents a region of complete differentiation, and FST = 0
+represents panmixia, outlier region of large FST may indicate a barrier region associated with reduced gene flow. However, FST can show significant heterogeneity
+for reasons other than reproductive isolation (Figure 1.2) (Noor & Bennett, 2009;
+Cruickshank & Hahn, 2014): as FST is a function of both dxy and genetic diversity (π̄), FST correlates with variables that contribute to heterogeneity in π̄ across
+the genome. For example, both recombination (Myers et al., 2005) and mutation
+rates (Hodgkinson & Eyre-Walker, 2011) are known to vary along the genome and
+correlate positively with genetic diversity (Ellegren, 2009), and as such will shape
+local patterns of genetic differentiation. Background selection will reduce genetic
+diversity at sites linked to selected loci (Charlesworth et al., 1995), and may create
+an artificial “island of divergence” of elevated FST around the focal site. Similarly,
+genomic architecture may determine patterns of linked selective effects through
+variation in gene density (Ravinet et al., 2017), or reduced recombination along
+an inverted region (Ravinet et al., 2017). It must also be noted that absolute values of FST are not straightforward to interpret in terms of reproductive isolation
+(i.e. not explicit quantifications of migration rates) and lack statistical support. In
+
+9
+
+
+
+CHAPTER 1
+conclusion, until we can identify barriers to gene flow explicitly we will not understand to what extent FST outliers and other similar summary statistics represent
+true barriers to gene flow.
+Beyond scans of summary statistics, various methods have been developed for
+inferring migration rates and the history of speciation between taxa. Models of
+speciation with gene flow have been fit to multilocus sequence data (i.e. assuming no recombination within loci) since the early 2000s using Markov chain Monte
+Carlo (MCMC) based approaches (Nielsen & Wakeley, 2001). However, while
+extensions have been developed that allow for recombination (Becquet & Przeworski, 2007; Beeravolu et al., 2018), it has generally remained difficult to apply
+methods based on multilocus data to genome-scale data. Sequentially Markov
+coalescent (SMC) based methods have been developed to fit IM models to wholegenome sequence (WGS) data (Dutheil & Hobolth, 2019). Composite-likelihoodbased approaches such as δaδi (Gutenkunst et al., 2010) fit demographic models
+to the SFS of SNP data, but it is difficult to expand this approach to genome-wide
+data. Simulation-based approaches like fastsimcoal2 (Excoffier et al., 2021) allow one to simulate patterns of genetic diversity under different demographic models of speciation, which can be leveraged to infer likely global or local models of
+speciation across the genome. Approximate Bayesian Computation (ABC) based
+approaches such as DILS (Fraïsse et al., 2021) and the approach used by Mondal et al. (2019) fit models of speciation (including heterogeneity) to summaries of
+the SFS by using a simulation framework (such as fastsimcoal) to estimate the
+distribution of model parameters. However, by relying on a small set of drastic
+summary statistics, such approaches sacrifice much of the information contained
+in WGS data (see the introduction to chapter 3 for a more extensive discussion
+on model-based inference).
+
+10
+
+
+
+Figure 1.2. FST in 50kb windows along a chromosome of a simple simulation of an isolation with migration model using msprime
+(Baumdicker et al., 2022). Here, I have simulated a global mutation, recombination, and migration rate but have included no selective
+processes. I have highlighted in red the top 5% of FST values and illustrated this threshold with a red line. This figure demonstrates
+several points. Firstly, heterogeneity generated through mutation, drift, and recombination can lead to substantial heterogeneity in
+genome-wide FST . Secondly, we can see large peaks of FST even without simulating additional prevalent confounding processes,
+for example, background selection, which can substantially shape local genetic diversity. Therefore, this degree of ’noise’ is an
+underestimate relative to how much we expect from empirical data. Thirdly, imposing a naive threshold based on the distribution of
+parameter estimates will highlight potentially interesting loci where there is nothing to be found.
+
+CHAPTER 1
+
+11
+
+
+
+CHAPTER 1
+
+Topology-based inference
+D-statistics (computed by the ABBA/BABA test) aim to infer the presence and
+direction of gene flow between species by quantifying excessive allele sharing
+between closely related taxa. However, this method suffers from the same fundamental shortcoming as other summary statistics approaches (Durand et al.,
+2011). Topology weighting (Twisst), a method related to ABBA/BABA introduced
+by Martin & Van Belleghem (2017), visualizes variation in tree topology along the
+genome amongst a sample of closely related species/populations to infer putative
+regions of introgression via incongruencies. However, it is difficult to disentangle
+the absence of introgression from topologically concordant introgression events.
+See also tsinfer Kelleher et al. (2019) and relate Speidel et al. (2019) for methods of inferring genome-wide genealogies and Payseur & Rieseberg (2016) for
+an extensive review of methods of inferring introgression.
+
+Fitting explicit models of speciation
+Given the difficulties discussed above it has been computationally difficult to move
+away from summary statistics and fit models of the speciation process both genomewide and along the genome, and variation in effective migration rate is rarely
+quantified (Payseur & Rieseberg, 2016). As we have lacked explicit estimates
+of migration rates and confidence in putative barrier loci, it remains unclear which
+processes and genomic regions are involved in the emergence and maintenance
+of reproductive isolation.
+In this thesis, I fit explicit models of speciation to WGS data to infer effective migration rates and putative barriers to gene flow. I do this using the recently described
+framework gIMble (Laetsch et al., 2022). This tool implements the approach first
+outlined by Lohse et al. (2011) and Lohse et al. (2016) to fit models of demographic
+history (such as models of strict divergence, constant migration, and isolation with
+migration). This is done by analytically computing model likelihoods given the sets
+
+12
+
+
+
+CHAPTER 1
+of mutation configurations we observe in short blocks of sequence data. Thus, on
+a genome-wide scale, one can ask for a window of sequence data whether a
+model including migration (in either direction) is most likely, and if so, what migration rate best explains the blockwise site-frequency spectrum (bSFS) observed
+within this window. Regions of the genome which show no support for migration
+may be designated as barrier regions when contrasted with the genome-wide average migration rate. This allows us to explicitly infer barriers to gene flow and
+avoids the shortcomings of SFS based summary statistics. Additionally, we can
+apply a simple rescaling to estimates of effective migration rates (as suggested
+by Westram et al. (2022)) to interpret migration rates in terms of reproductive
+isolation, facilitating meta-comparisons in the field of speciation 1.2. For a full explanation of this approach please see Laetsch et al. (2022), and the methodology
+of chapters 3 and 4 in this thesis.
+
+RI ≈ 1 −
+
+1.6
+
+me
+me max
+
+(1.2)
+
+Butterflies as a model system for speciation genomics
+”Literature and butterflies are the two sweetest passions known to
+man.” - Vladimir Nabokov, 1962
+
+A long history of interest by naturalists and a modern torrent of genetic resources
+make the Lepidoptera an ideal clade for the study of evolution and speciation. The
+study of the natural history of butterflies and moths considerably predates the Origin, and even Linnaeus’ Systema Naturae (Linnaeus, 1758). Indeed the intense
+effort in aggregate of lepidopterists over decades in the collection, identification,
+and understanding of butterflies and moths has culminated in a substantial (but
+by no means complete) body of knowledge of butterfly biology. As a result, we
+have an excellent understanding of their systematics, phylogenetic relationships,
+phenotypes and aberrations, life cycles and life histories (including generation
+
+13
+
+
+
+CHAPTER 1
+times), ecological interactions, range distributions, and phenology (see Wiemers
+et al. (2020); Kudrna et al. (2011); Tolman & Lewington (1997) for information on
+European butterfly taxa). Furthermore, extensive interest from current research
+groups combined with modern efforts to sequence whole genomes of non-model
+organisms, such as the Darwin Tree of Life project (of Life Project Consortium,
+2022), is resulting in an avalanche of genomic resources. Not only is genetic
+sequencing data accumulating, but recent research has quantified both mutation
+rates (Keightley et al., 2015) and linkage disequilibrium (Jiggins et al., 2005) in
+the Heliconius genus of tropical butterflies. Furthermore, female heterogamety in
+Lepidoptera provides an important contrast to studies on male heterogametic systems, as these comparisons help disentangle evolutionary effects underpinned by
+the genomics of sexual dimorphism, including Haldane’s rule, the large X/Z effect,
+and the faster X/Z effect. Taken together, these resources make the Lepidoptera
+an excellent model system for studying evolution and speciation.
+There is a large body of work investigating speciation in butterflies. In temperate
+regions research has investigated hybridisation in Pontia (Porter et al., 1997) and
+Spialia butterflies (Hinojosa et al., 2022), and in the latter genus speciation has
+been related to host plant shifts (Hernández-Roldán et al., 2016). In the tropics,
+there is considerable interest in investigating the diversity of Heliconius butterflies
+in South America. These butterflies are known for their Müllerian ’mimicry rings’
+where toxic species in shared geographic areas converge on the same wing phenotypes. However, numerous mimicry rings with different model phenotypes cooccur geographically instead of converging as we would expect under a Müllerian
+model, likely due to differences in behavioural ecology between rings (Mallet &
+Gilbert Jr, 1995). It has been demonstrated using pairwise comparisons with H.
+melpomene that wing-pattern mimicry genes introgress between co-mimics (Heliconius Genome Consortium, 2012).
+Efforts have been made to describe the genetic basis of this diversity of wing
+pattern phenotypes to understand whether the same genetic mechanisms con14
+
+
+
+CHAPTER 1
+trol phenotypic similarities between co-mimics (Joron et al., 2006; McMillan et al.,
+2020). Genetic linkage mapping has led to the discovery of numerous major effect wing pattern genes (see Reed et al. (2011); Martin et al. (2012); Nadeau et al.
+(2016) for discussions on the genes optix, wnta, and cortex). These wing pattern genes control differences between species which act as barriers to gene flow
+through assortative mating. Additionally, the cortex gene has been shown to occur within a wing-pattern supergene H. numata, a species which is closely related
+to H. melpomene but with greatly divergent wing phenotypes (Joron et al., 2006).
+Numerous studies have investigated the relationship between chromosome evolution and speciation in Lepidoptera. Karyotypic variation between species of
+Leptidea butterflies suggests that chromosomal rearrangements may have contributed to their divergence (Šíchová et al., 2015). de Vos et al. (2020) demonstrated using phylogenetic diversification rate analyses that speciation rates are
+associated with chromosome number evolution rates. Lastly, recent evidence
+demonstrates that complex interactions between the W chromosome and endosymbionts may lead to reproductive isolation through male-killing effects in
+Danaus butterflies (Smith et al., 2016).
+Research on speciation has been focused on either model laboratory systems that
+are easy to manipulate in the lab, or dramatic adaptive radiations in an attempt
+to understand what drives rapid speciation events (Schluter, 2000; Seehausen,
+2004; Marques et al., 2019). Additionally, explaining allopatric speciation events
+on islands and mountains is not interesting. Neither of these are likely to be representative of the conditions under which the bulk of species on our planet diverged.
+Hence, in this thesis, I analyse data from all 20 ’good’ sister species pairs of European butterfly (excluding mountain and island endemics) in chapter 2, and I focus
+on the genus Iphiclides in chapters 3 and 4 (Figure 1.3). As such, the aim is to
+shed light on the processes that govern typical speciation events in this group.
+
+15
+
+
+
+CHAPTER 1
+
+Figure 1.3. Phylogeny of all ’good’ sister species pairs of European butterflies,
+excluding island and mountain endemics. This phylogeny is a subset of the butterfly phylogeny generated by Wiemers et al. (2020) which includes all European
+species. In chapter 2 I analyse all of these species in a comparative framework.
+In chapters 3 and 4 I focus on the Iphiclides pair (the scarce swallowtails) to infer
+barriers to gene flow and test whether they are associated with sex-biased genes.
+
+16
+
+
+
+CHAPTER 1
+
+1.7
+
+Thesis aims
+
+In this thesis, I aim to explore to what extent sex-biased genes are associated with
+barriers to gene flow, by inferring the speciation history of sister species of European butterflies. I do this using whole-genome sequencing (WGS) and RNAseq
+data for a multitude of species using the framework outlined below.
+In chapter 2, I estimate fundamental population genetic summary statistics for all
+’good’ (see Descimon & Mallet (2009)) sister species pairs of European butterflies, excluding mountain and island endemics, and fit simple speciation models
+between them. I use these data to address classic biogeographic hypotheses
+about speciation. In particular, I ask: i) do speciation events coincide with each
+other and key climatic events, supporting the idea that the Pleistocene glacial cycles acted as a ’speciation pump’, and ii) is the evidence for post-divergence gene
+flow restricted to contact-zone forming species?
+In chapter 3, I fit explicit models of the speciation process to WGS resequence
+data for Iphiclides podalirius and I. feisthamelii. Amongst European butterflies,
+this pair is relatively young, experiences ongoing gene flow through a hybrid zone
+in southern France, and phenotypic differentiation is restricted to sexually dimorphic traits, making these species ideal for investigating the interplay between sexbiased gene expression and speciation (see the introduction of chapter 3 for further details). By fitting explicit models of speciation, I infer migration rates in windows along the genome and use these estimates to identify regions which are
+putative barriers based on the absence of migration. I combine barriers inferred
+with this model-based approach with a quantification of hybridisation in recent
+Iphiclides hybrids to investigate the association between long and short-term barriers to gene flow. Finally, the best fitting model of speciation is used as a prior
+when intersecting variation in long-term migration with the gene expression data
+in chapter 4.
+In chapter 4, I quantify gene expression levels and test for evidence of positive
+17
+
+
+
+CHAPTER 1
+selection per gene in male and female I. podalirius and I. feisthamelii RNAseq
+data sets. I use these estimates to quantify sex bias and intersect this analysis with long-term barriers to gene flow inferred from WGS data. I fit models of
+speciation informed by the estimates of chapter 3 to a male-only data set to identify putative barriers to gene flow on the Z chromosome. These analyses reveal
+evidence for fast evolution via positive selection on male-biased genes on the Z
+chromosome, as well as a significant enrichment of barriers to gene flow on the Z
+chromosome. Whilst sex-biased genes are not associated with barriers to gene
+flow on a genome-wide scale and there is no support for a general fast-Z effect, I
+argue that fast-evolving male-biased genes may contribute to widespread reproductive isolation on the Z chromosome.
+Finally, in chapter 5, I discuss the significance, limitations, and future considerations of this thesis.
+
+18
+
+
+
+Chapter 2
+The Pleistocene species pump past its prime:
+evidence from European butterfly sister species
+Abstract
+The Pleistocene glacial cycles had a profound impact on the ranges and genetic
+make-up of organisms. Whilst it is clear that the contact zones that have been
+described for many sister taxa are secondary and have formed during the last
+interglacial, it is unclear when the taxa involved began to diverge. Previous estimates based on small numbers of loci are unreliable given the stochasticity of genetic drift and the contrasting effects of incomplete lineage sorting and gene flow
+on gene divergence. Here we use genome-wide transcriptome data to estimate
+divergence for 18 sister species pairs of European butterflies showing either sympatric or contact zone distributions. We find that in most cases species divergence
+predates the mid-Pleistocene transition or even the entire Pleistocene period. We
+also show that although post divergence gene flow is restricted to contact zone
+pairs, they are not systematically younger than sympatric pairs. This suggests
+that contact zones are not limited to the initial stages of the speciation process,
+but can involve notably old taxa. Finally, we show that mitochondrial and nuclear
+divergence are only weakly correlated and mitochondrial divergence is higher for
+contact-zone pairs.
+
+19
+
+
+
+CHAPTER 2
+
+2.1
+
+Introduction
+
+Divergence in allopatry provides a simple null model of speciation (Mayr, 1947).
+Following geographic isolation and given enough time, reproductive isolation is
+inevitable as incompatibilities will eventually become fixed as a result of genetic
+drift and/or selection (Bateson, 1909; Dobzhansky, 1937; Muller, 1942). Taxa that
+evolved partial reproductive isolation in allopatry may come into secondary contact
+as a result of range shifts and – depending on their degree of reproductive isolation and niche overlap – either form a contact zone or invade each other’s range
+(Barton & Hewitt, 1985; Pigot & Tobias, 2013). If allopatric divergence dominates
+speciation, then local alpha diversity for a given clade cannot accrue until secondary sympatry is achieved (Weir & Price, 2011). Thus the forces that facilitate
+or hamper secondary sympatry and the timescale over which this occurs have
+profound consequences both for speciation and the spatial distribution of species
+diversity. While modern ranges only provide a snapshot of the dynamic history
+of range shifts, understanding the extent to which current range overlap between
+closely related species can be explained by their speciation history and vice versa
+has been at the core of speciation research (Coyne et al., 2004).
+The glacial cycles of the Pleistocene had a profound effect on current diversity
+of temperate ecosystems (Hewitt, 1996, 2001; Hofreiter & Stewart, 2009). Populations of temperate taxa in Europe were isolated in ice-free refugia around the
+Mediterranean basin (Iberia, Italy, the Balkans and the larger Mediterranean islands) as glaciers encroached. The observation that the geographic ranges of
+many young taxa are restricted to individual glacial refugia in southern Europe
+(Dennis et al., 1991; Hewitt, 1996, 1999, 2011; Schmitt, 2007) suggests that this
+repeated separation into and expansion out of glacial refugia has played a major role in their origin. The availability of allozyme and mitochondrial (mt) data in
+the 1980s and 1990s has spurred an abundance of case studies on intra- and
+interspecific diversity of European taxa including detailed investigations of hy-
+
+20
+
+
+
+CHAPTER 2
+brid zones in taxa ranging from fire-bellied toads (Kruuk et al., 1999), the house
+mouse (Boursot et al., 1996), grasshoppers (Butlin & Hewitt, 1985; Barton, 1980)
+to plants (Bacilieri et al., 1996) and marine mussels (Skibinski & Beardmore,
+1979). The pervading evidence from these studies is that genetic diversity within
+and in, many cases, divergence between species is structured by refugia (Hewitt,
+1996; Schmitt, 2007; Dapporto et al., 2019).
+
+2.1.1
+
+When was divergence between sister species initiated?
+
+While it is clear that the hybrid zones we observe today are secondary contacts
+that formed after the last glacial maximum and may have formed many times over
+throughout the Pleistocene, it is far from clear when divergence between the sister
+taxa involved was initiated. One possibility is that the Pleistocene glacial cycles
+initiated species divergence directly by separating populations into allopatric refugia (i.e. a ’species pump’ sensu Haffer (1969)). Another possibility is that the
+initial divergence between sister species predates the Pleistocene, and so, any
+build-up of reproductive isolation during the Pleistocene (e.g. via the fixation of
+intrinsic incompatibilities and/or reinforcement) occurred in populations that were
+already partially diverged. If the Pleistocene species pump hypothesis is correct,
+we would expect sister species divergence times to be concentrated during or at
+the beginning of the mid-Pleistocene transition 0.8-1.2 million years ago (MYA)
+which marks the onset of continent-wide glacial cycling (Bishop et al., 2011). The
+idea that Pleistocene divergence acted as a species pump was first proposed in
+the context of American faunas (Haffer, 1969; Avise et al., 1998; Bernatchez &
+Wilson, 1998), but has dominated phylogeographic studies on European sister
+taxa (e.g. Hewitt, 1996, 2000; Schmitt, 2007; Habel et al., 2008; Schoville et al.,
+2012). In contrast, other studies including some of the early work on European
+contact zones (Butlin & Hewitt, 1985; Barton & Hewitt, 1985) conclude that the
+taxa involved in such secondary contacts may substantially predate the Pleistocene (Hewitt, 1996; Klicka & Zink, 1997; Spooner & Ritchie, 2006; Abbott et al.,
+
+21
+
+
+
+CHAPTER 2
+2000). Similarly, Pleistocene climate forcing is insufficient in explaining divergence in an Amazonian butterfly suture zone (Dasmahapatra et al., 2010). Thus
+it remains unclear to what extent divergence between sister taxa was initiated by
+’Pleistocene species pump’ dynamics or has an older, deeper origin.
+A corollary for the hypothesis of allopatric speciation in different refugia is that
+range overlap is secondary. Since species can more easily invade each others
+ranges once sufficient premating barriers and ecological differentiation have developed, we would expect species pairs with overlapping ranges to be older overall than those without range overlap, all else being equal (Coyne et al., 2004).
+Support for this prediction comes from comparative studies showing that the proportion of range overlap (degree of sympatry (Chesser & Zink, 1994)) is positively
+(albeit weakly) correlated with genetic divergence (Barraclough & Vogler, 2000;
+Pigot & Tobias, 2013). However, a recent study in Chorthippus grasshoppers
+shows that subspecies that hybridise across contact zones can be older than currently sympatric species (Nolen et al., 2020).
+
+2.1.2
+
+Mito-nuclear discordance
+
+Age estimates for recently diverged taxa have largely relied on single locus phylogenies and ignored incomplete lineage sorting. Hewitt (2011) summarises age estimates for European hybrid zones taxa including mammals, insects, amphibians,
+and reptiles, which range from hundreds of thousands to several million years
+ago. However, given that these estimates are based on different markers and
+calibrations, the extent to which glacial cycles have initiated speciation events remains unknown. Estimates based on mitochondrial (mt) data are particularly unreliable for at least three reasons. First, the mutation rate of mtDNA is highly erratic
+(Galtier et al., 2009). Second, given the stochasticity of coalescence, the ancestry
+of a single locus (however well resolved) is a very poor measure of species divergence. In the absence of gene-flow, divergence at a single locus may substantially
+predate the onset of species divergence, while it may be much more recent in the
+22
+
+
+
+CHAPTER 2
+presence of gene flow (Knowles & Carstens, 2007; Wang & Hey, 2010). Mitonuclear discordance in both directions has been found in a large number of animal systems (Toews & Brelsford, 2012) including several closely related species
+of European butterflies (Wiemers & Gottsberger, 2010; Dincă et al., 2019; Hinojosa et al., 2019). Finally, mtDNA does not evolve neutrally since transmission of
+mitochondria is completely linked to maternal inheritance of endosymbionts such
+as Wolbachia and Spiroplasma and, in organisms with Z/W sex determination, of
+the W chromosome. Thus mt diversity and divergence may be driven largely by
+selective sweeps (including introgression sweeps) rather than neutral gene flow
+and genetic drift (Jiggins, 2003; Hurst & Jiggins, 2005; Galtier et al., 2009; Martin
+et al., 2020).
+
+2.1.3
+
+European butterflies as a model group
+
+Testing whether climate-induced Pleistocene range shifts have triggered speciation or patterned older splits between species requires replication both at the level
+of genetic loci and at the level of speciation events. Although we can now generate WGS data for any species, there are surprisingly few reliable estimates for
+the onset of divergence between European sister species and such estimates are
+lacking even for well-studied contact zone taxa (but see Nürnberger et al., 2016;
+Nolen et al., 2020).
+Lepidoptera are arguably the best-studied arthropod family: European butterflies
+provide a unique opportunity to investigate divergence and speciation processes
+comparatively (Dapporto et al., 2019). Near-complete information on geographic
+ranges and key life-history traits (e.g. voltinism and host plant range) is available
+(Kudrna, 2019; Tolman & Lewington, 2013). Additionally, the taxonomy of all 496
+European species (Wiemers et al., 2018) is well resolved and a complete, multilocus phylogeny of all European taxa exists (Dapporto et al., 2019). This combined
+with extensive DNA barcode reference libraries (Dincă et al., 2021; Dapporto et al.,
+2019), facilitates the identification of species (especially in the case of cryptic taxa)
+23
+
+
+
+CHAPTER 2
+and provides extensive sampling of sister species pairs, many of which abut at narrow contact zones (Dennis et al., 1991; Vodă et al., 2015; Platania et al., 2020)
+(Figure 2.1). Secondary contact zones have been described in detail for several
+European taxa, including Spialia orbifer and S. sertorius (Lorkovic, 1973), the Italian Pontia hybrid zone (Porter et al., 1997) and the contacts between Iphiclides
+podalirus and I. feisthamelii and between Melanargia galathea and M. lachesis
+along the Pyrenees (?Habel et al., 2017; Wohlfahrt, 1996).
+Here we use European butterflies as a model system to investigate to what extent
+the divergence times between sister species in this group are concentrated in the
+Pleistocene, as predicted by the Pleistocene species pump hypothesis, and test
+how well recent sister species fit a null model of divergence in allopatry. Although
+European butterflies have been studied intensively, with few exceptions (see Talla
+et al., 2017) the robust estimates of divergence required for any systematic comparison of speciation are lacking. We generate RNAseq data for 18 sister species
+pairs and ask the following specific questions:
+i) Has speciation been initiated during the Pleistocene as envisaged by the speciespump hypothesis or did the glacial cycles pattern pre-existing, older subdivisions?
+ii) Are sister species pairs that form contact zones younger than pairs that overlap
+in range?
+iii) Is there evidence for gene flow in contact zone species?
+iv) How strongly correlated are mitochondrial and nuclear divergence and do contact zone pairs show increased mito-nuclear discordance?
+
+2.2
+2.2.1
+
+Methods
+Sampling and molecular work
+
+We identified true sister species pairs in the European butterfly phylogeny (Wiemers
+et al., 2018; Dapporto et al., 2019). Species pairs involving island and mountain
+24
+
+
+
+CHAPTER 2
+endemics were excluded, as these cannot achieve secondary sympatry. We also
+did not consider species pairs that are unlikely to have originated in Europe, e.g.
+sister pairs involving North American taxa. Following these criteria, we sampled
+18 sister species pairs (Table 2.1). Our sampling includes 7.3 % of European butterfly species (Wiemers et al., 2018) and almost all ’good’ butterfly sister species
+pairs in Europe (Descimon & Mallet, 2009).
+Field sampling was conducted over multiple seasons (2016-2019) at several locations across Southern and Central Europe (Portugal, Spain, France, Hungary,
+Romania) targeting known glacial refugia (and avoiding localities close to known
+contact zones) whenever possible. Samples were hand-netted in the field, flashfrozen in a liquid nitrogen dry shipper (Voyageur 12) and stored at -70 ◦ C shortly after capture (wings were retained for identification). Specimen identifications were
+confirmed for 14 species that are difficult to identify based on morphology (morphological characters are subtle and/or internal) but for which COI barcodes are
+diagnostic of morphoID using LepF/R primers (Hajibabaei et al., 2006) and existing reference databases (Dincă et al., 2021). We were unable to obtain fresh
+material for Erebia euryale and E. ligea, and Fabriciana adippe and F. niobe (two
+remaining sister pairs meeting our sampling criteria).
+RNA extractions were prepared by dividing individuals bilaterally (including all
+parts of the body: head, thorax, abdomen) and using one side. RNA was extracted following a hybrid protocol: samples were homogenized in TRIzol and
+RNA was eluted using the Purelink RNA Purification kit protocol after a DNA digestion step. Extracted RNA was submitted to Edinburgh Genomics to generate
+automated TruSeq stranded mRNA-seq libraries. Libraries were sequenced on an
+Illumina NovaSeq platform using 100bp paired-end reads after poly-A selection.
+For each species, where possible, we generated RNASeq data for two samples,
+one male and one female from different localities. Transcriptome data for 66 samples (across 38 species) were generated and analysed previously by Mackintosh
+et al. (2019). Of these, 26 samples from 13 species are included in the present
+25
+
+
+
+CHAPTER 2
+analysis (Table C.1).
+
+2.2.2
+
+Generating transcriptome assemblies
+
+Reads were processed following the pipeline developed by Mackintosh et al. (2019).
+Reads were trimmed and checked for quality using FastQC v0.11.8 (Andrews,
+2016) both before and after trimming with FastP v0.20.0 (Chen et al., 2018) using MultiQC v1.7 (Ewels et al., 2016) to visualise the results. Trimmed reads
+were assembled into de novo transcriptomes using Trinity v2.8.5 (Grabherr
+et al., 2011), pooling data sets by species.
+Transcriptome completeness was assessed using BUSCO v5 (Simão et al., 2015)
+on full transcriptome assemblies using the lepidopteraodb10 database, with scores
+ranging from 84-96% (Table C.2). Transcripts were processed with Transdecoder
+v5.5 (Haas et al., 2016), and retained based on BLAST (Camacho et al., 2009)
+and HMMER (Finn et al., 2011) homology search results. Read pairs from each
+sample were mapped against respective species transcriptome, composed of
+the longest isoform of each complete protein-coding transcript, using BWA MEM
+(Li, 2013). Coverage at mapped sites was determined using GATK CallableLoci
+v3.5 (McKenna et al., 2010). Sites with at least 10-fold coverage and a minimum
+MAPQ of 1 in each sample were considered suitable for variant calling. Callable
+loci were intersected between individuals using BEDTools v2.28 (Quinlan & Hall,
+2010), variants were called using FreeBayes v1.3.1 (Garrison & Marth, 2012)
+and filtered for unbalanced SNPs and missing genotypes (RPL ≥1 && RPR≥1
+&& SAF≥1 && SAR≥1 && N_MISSING=0) using BCFtools filter v0.1.19 (Li,
+2011).
+To generate comparable data sets across all samples, Orthofinder v2.3.3 (Emms
+& Kelly, 2015) was used to cluster proteins into orthogroups. Orthogroups were
+labelled single-copy orthologues (SCOs) if one protein of each taxon was present.
+Genus single-copy orthologues (GSCOs) were diagnosed based on the presence
+of single-copy proteins within the focal pair. Protein sequences from each or26
+
+
+
+CHAPTER 2
+thogroup were used to align corresponding DNA sequences using Translatorx
+v12.0 (Abascal et al., 2010).
+Data were generated for 36 species (18 sister pairs) from five families. For 17
+pairs, data were generated from 665 SCOs from high-quality transcriptomes (BUSCO
+scores > 90%). For the pair of Zerynthia species (one of which, Zerynthia polyxena, was sampled as a larva) GSCOs (≈5000 orthologues) were used to avoid
+restricting the SCOs for other pairs. With the exception of the Zerynthia pair,
+all analyses are based on SCO to enforce consistent comparisons across pairs.
+While the SCO data set is much smaller than the pair GSCO data sets and likely
+enriched for conserved and highly expressed genes, this has very little impact on
+estimates of divergence and diversity at fourfold degenerate (4D) sites, as these
+are highly correlated (Figure C.1 and Mackintosh et al. (2019)).
+
+2.2.3
+
+Estimating gene and population divergence
+
+For each species pair, we calculated the average pairwise gene divergence dxy at
+fourfold degenerate (4D) sites using sequence alignments for one or two diploid
+samples from each species. This calculation is implemented in the script orthodiver.py (www.github.com/samebdon/orthodiver).
+Species split times were estimated using two different approaches. Firstly, we
+used a simple re-scaling of mean genetic divergence and diversity to obtain a
+lower bound of the species divergence time. Assuming a simple null model of
+divergence without gene flow, neutrality and an infinite sites mutation model, net
+mean divergence da = dxy − π (Nei & Li, 1979) is directly proportional to species
+da
+. Here µ is the de novo mutation rate per generation (per
+divergence time T = 2µ
+
+base). We assumed µ = 2.9 ∗ 10−9 , an estimate of the spontaneous mutation rate
+obtained from parent-offspring trios of South American Heliconius melpomene
+butterflies (Keightley et al., 2015). Since both violations of the mutation model
+(back-mutations) and the demographic model (gene flow) reduce da , this time
+estimate is a lower bound of the true species divergence time. We converted es27
+
+
+
+CHAPTER 2
+timates of species divergence time (T ) into years (τ ) using the mean generation
+time of each pair (Table 2.1). Information on generation times was compiled from
+Collins Butterfly Guide (Tolman & Lewington, 2013) (Table 2.1). For species in
+which generation times vary with latitude, we assumed the minimum generation
+time of the southern part of the range. This is a reasonable long-term average,
+given that European glacial refugia are located around the Mediterranean.
+Secondly, we estimated species split times using a multi-locus coalescent approach. We considered the distribution of pairwise differences in blocks of a fixed
+length of 4D sites to fit an isolation with migration (IM) model and a nested history of strict divergence to each species pair. In the absence of recombination
+within blocks, the distribution of pairwise differences has been derived analytically
+(Wilkinson-Herbots, 2012; Lohse et al., 2011). We obtained maximum likelihood
+parameter estimates under both models and used likelihood ratio tests for model
+comparisons in Mathematica v11.3 (supplementary file 1). The block length for
+each pair was chosen to give an average of three pairwise differences between
+sister species per block.
+However, given the high rate of recombination (relative to mutation) in butterflies
+(Martin et al., 2016, 2019) and the substantial span of 4D blocks, we expect multilocus inference (assuming no within block recombination) to be biased In particular, recombination is known to lead to (upwardly) biased estimates of divergence
+time (Wall, 2003).
+Given this and other limitations (see Discussion) we will focus on the simpler and
+more robust estimates of species divergence based on da throughout.
+As an additional test for gene flow, we compared the observed distributions of
+pairwise differences to analytic expectations under a model of strict divergence
+without gene flow given the estimates of T and ancestral Ne obtained from da and
+mean π (which cannot be affected by recombination).
+Thus, in the absence of gene flow, we would expect the empirical distribution of
+28
+
+
+
+CHAPTER 2
+pairwise differences to be narrower than the analytic expectation (Wall, 2003) due
+to recombination. In contrast, wider than expected distributions are indicative of
+post-divergence gene flow. We re-sampled (without replacement) 10,000 data
+sets of equal size as the observed data from the expected distribution of each
+species and tested whether the likelihood of the observed distribution of pairwise
+differences falls within the distribution of likelihoods expected under a null model
+of strict divergence.
+
+2.2.4
+
+Estimating range size and overlap
+
+Geographic ranges were quantified as follows: we obtained occurrence data over
+Europe for all focal species with a resolution of 60’ latitude and 30’ longitude by
+critically revising the data from the Distribution Atlas of European Butterflies and
+Skippers (Kudrna et al., 2011) and by adding data from Roger Vila’s collection
+stored at Institut de Biologia Evolutiva (Barcelona) (Figures C.2-C.4). To calculate range overlap we applied the biodecrypt function (Platania et al., 2020) of
+the recluster R package (Dapporto et al., 2013). This function computes alpha
+hull with a given concavity (α) and evaluates the area of overlap among pairs of
+species. We used α = 2 and α = 3 for species with discontinuous and continuous distributions in Europe respectively. We quantified the range overlap of each
+species pair and calculated the degree of sympatry as:
+
+Sympatry =
+
+OverlapA,B
+min(AreaA,B )
+
+(2.1)
+
+, that is the fraction of the smaller range involved in the overlap. In the following,
+we consider sister pairs with a degree of sympatry ≤ 0.2 contact zone pairs and
+those with a degree of sympatry > 0.2 sympatric. Based on this, we classified
+nine pairs as contact zone taxa. However, since there are only two species pairs
+with intermediate levels of sympatry (> 0.2 and < 0.7), our comparisons of contact
+zone and sympatric pairs are robust to a wide range of thresholds.
+
+29
+
+
+
+CHAPTER 2
+
+2.2.5
+
+Mitochondrial diversity and divergence
+
+Sequence alignments for the COI barcode locus were obtained from the BOLD
+database (Ratnasingham & Hebert, 2007) for all 18 sister species pairs. These
+sequences, together with associated information, are publicly available in the data
+set DS-EUGENMAP (dx.doi.org/10.5883/DS-EUGENMAP) on BOLD at
+www.boldsystems.org and were originally produced by Dincă et al. (2021). For
+each species, we included all available sequence records from Europe (ranging
+from 21 in E. crameri to 429 in L. sinapis (Table C.1)). Mean pairwise diversity (π)
+within species and divergence (dxy ) across all sites were computed using DnaSP
+(Librado & Rozas, 2009).
+We obtained the average gene divergence time for each pair from the multilocus calibrated phylogeny of European butterflies of Wiemers et al. (2020) as half
+of patristic distances calculated with distTips function of the adephylo R package
+(Jombart & Dray, 2010). The correlation between our estimates of species divergences and these node ages was explored with standardized major axis (SMA)
+regression, using the sma function of the smatr R package. SMA estimates slope
+and intercept and tests if the slope differs from one.
+
+2.3
+2.3.1
+
+Results
+Most European butterfly sister species predate the Pleistocene
+
+Mean gene divergence (dxy ) at 4D sites between sister species ranged from 0.015
+to 0.085, with a mean of 4.7% (Table 2.1, Figure 2.2) across the 18 pairs. We
+contrasted sympatric and allopatric samples in one genus where it was possible
+to confirm that sampling location has negligible impact on estimates of divergence
+(M galathea (Romania): M. lachesis (Spain) dxy = 0.039, Spain: Spain = 0.038).
+Species divergence times obtained from da at fourfold degenerate sites (4D) ranged
+from 0.47 (0.2, 1.0) (Leptidea) to 8.5 (4.5, 19) (Satyrus) MYA, with a mean of 3.8
+
+30
+
+
+
+CHAPTER 2
+MYA, (Figure 2.2). The distribution of divergence estimates does not suggest
+there is synchronicity in divergence independent of absolute values. Even though
+these point estimates are lower bounds of species divergence (see Discussion),
+they not only substantially predate the mid-Pleistocene transition (15 out of 18
+pairs) but, in the majority of cases (11 out of 18 pairs), are older than the entire
+Quaternary period ≈ 2.6 MY (Table 2.1). Of the seven taxa with Pleistocene τ estimates, three fall in the early Pleistocene: Pseudophilotes (1.97 (1.0, 4.4) MYA),
+Pontia (2.33 (1.2, 5.2) MYA) and Spialia (2.55 (1.3, 5.7) MYA). However, when
+accounting for the (known) uncertainty in the mutation rate estimate we used as a
+molecular clock (Keightley et al., 2015), we can rule out a divergence time more
+recent than the mid-Pleistocene transition or the Quaternary period for 13 and four
+sister species pairs respectively (Figure 2.2).
+We find that estimates of sister species divergence based on the distribution of
+pairwise differences are highly correlated (Pearson’s correlation coefficient = 0.79)
+with the estimates based on mean da (Figure C.5). The IM model fit significantly
+better for two species pairs (Pontia and Colias) and, as expected, T estimates
+under the IM model for these two species pairs are older (3.30 vs 0.919 and 5.08 vs
+2.33 MYA respectively) than estimates based on da (Table C.3). However, we find
+that sampling blocks of a fixed length resulted in a consistent downward bias in dxy
+of on average 10%. This is likely a result of selecting for long and likely conserved
+transcripts. In light of this, and given that blocks based on 4D sites violate other
+key assumptions of multi-locus inference, in particular, no recombination within
+loci and known phase, we caution against over-interpreting these model-based
+estimates (see Discussion) and focus on the simpler and more robust estimates
+of sister species divergence based on da throughout.
+
+31
+
+
+
+CHAPTER 2
+
+2.3.2
+
+Sister pairs that form contact zones are not significantly younger
+than sympatric pairs
+
+There are two reasons to expect species pairs that form contact zones to be
+younger than sympatric pairs: First, if speciation under a null model of divergence
+in allopatry is initiated by periods of vicariance, the formation of a contact zone
+(parapatry) represents an earlier stage in the transition to complete reproductive
+isolation and substantial range overlap (sympatry) (Coyne et al., 2004). Second,
+any gene flow across contact zones would reduce da and hence our estimate of
+species divergence. While the nine pairs that form contact zones (degree of sympatry ≤ 0.2) have a lower net divergence (da = 0.0287, SD = 0.00930) than the
+nine sympatric pairs (degree of sympatry > 0.2, da = 0.0347, SD = 0.0195 Table 2.1), this difference is not significant (t = -0.82999, df = 11.478, p = 0.210).
+Additionally, we find no relationship between the degree of sympatry and da (t =
+0.723, df = 16, p = 0.480). Similarly, we may expect pairs that are still able to
+form hybrids (i.e. for which F1s have been observed in the wild) to be younger
+than those that do not. However, contrary to this expectation, we again find no
+significant difference in da between pairs which do and do not hybridise (da 0.0293
+and 0.0329 respectively, t = -0.582, df = 15.861, p = 0.284).
+
+2.3.3
+
+Evidence for recent gene flow in some contact zone pairs
+
+The empirical distribution of pairwise differences deviates significantly from the
+expectation under a strict divergence model in a majority of species pairs (12 out
+of 18) (Figure 2.3 & C.6). Of these, eight pairs have narrower distributions than
+expected, compatible with recombination within blocks and four pairs have wider
+distributions than expected, compatible with post-divergence gene flow (Pseudophilotes, Pontia, Iphiclides, Zerynthia). While the eight pairs with narrower distributions are equally split between contact and sympatric pairs, all four taxa with
+wider distributions are contact zone pairs (Figure 2.3). However, given the limited number of pairs overall, this difference between contact zones and sympatric
+32
+
+
+
+CHAPTER 2
+pairs is not significant (Fisher’s exact test, p = 0.0901).
+
+2.3.4
+
+Pervasive mito-nuclear discordance in contact zone species pairs
+
+Our estimates of species divergence are based on average net divergence (da )
+across many hundreds of genes and are robust to how orthologues are filtered
+(Figure C.1). Given that previous studies on European butterflies have been
+largely based on mitochondrial (mt) phylogenies, an important question is to what
+extent mt divergence is correlated with mean nuclear divergence. We find that
+both da and dxy at COI are positively but only weakly correlated with mean nuclear divergence (Figure 2.4). The correlation is weaker for da than dxy (R2 =
+0.27 and 0.31 respectively) which is unsurprising given that mitochondrial diversity (and hence da ) is both inherently random and may be affected by selective
+sweeps. Similarly, comparing the relation between mt and nuclear da between
+contact zone and sympatric pairs, we find a shallower slope for contact zone pairs
+(0.29 compared to 0.99, Figure 2.4). This difference, although not significant (p =
+0.09), appears to be driven by the reduced mt diversity in contact zone compared
+to sympatric pairs (mean π = 0.0030, SD = 0.0014 and π = 0.0047, SD = 0.0031
+respectively t = 1.5763, df = 11.324, p = 0.0712). This suggests that mt diversity
+may be more strongly affected by selective sweeps in contact zone species than
+in sympatric pairs. We find no corresponding signal for any difference in nuclear
+diversity between contact zones and sympatric pairs (t = -0.0139, df = 31.539, p
+= 0.506) and, in general, no correlation between nuclear and mt diversity (Figure
+C.7 and Mackintosh et al. (2019)).
+Our estimates for the lower bound of sister species divergence differ substantially
+from the ages of the corresponding nodes in the Wiemers et al. (2020) phylogeny
+for individual pairs (Figure C.8). This is unsurprising given that the latter are largely
+informed by mtDNA data (Figure C.9). However, perhaps surprisingly (given the
+difference in calibration, data and inference approach) our estimates are not consistently older or younger than the node ages of Wiemers et al. (2020) (tpaired =
+33
+
+
+
+CHAPTER 2
+-1.105, df = 17, p = 0.285). A standardized major axis regression shows a significant relationship (R squared = 0.3657, p = 0.00780), a slope (1.377) not different
+from one (r= 0.3786, p = 0.121) and an intercept (-0.5750) not different from zero
+(Figure C.8).
+
+2.3.5
+
+Genetic diversity does not correlate with relative range size
+
+Genetic diversity at 4D sites within all 36 species ranged from 0.32% to 4.2% with a
+mean of 1.5%. Given the H. melpomene mutation rate of µ = 2.9×10−9 (Keightley
+et al., 2015), these correspond to effective population sizes ranging from 280,000
+to 3,600,000 with a mean of 1,300,000 (assuming θ = 4Ne mu). Mackintosh et al.
+(2019) tested whether neutral genetic diversity across European butterflies correlates with geographic range and found no significant relation across 38 taxa. Our
+sampling of species pairs allows for a simpler, alternative test of the potential relationship between diversity and range size using sister-clade comparisons which
+are less sensitive to potential phylogenetic correlates and uncertainty in current
+range estimates. If diversity is a function of range size, we expect the species in
+a pair with the larger range to have higher genetic diversity than the species with
+the smaller range. We indeed find a difference in the expected direction, 0.0167
+(SD = 0.0114) vs. 0.0139 (SD = 0.00865), although the effect of relative range
+size is not significant (tpaired = 1.127, df = 17, p = 0.138, Figure C.10).
+
+34
+
+
+
+Table 2.1. Estimates of mean gene divergence (dxy ), net gene divergence (da ) and differentiation (FST ) at 4D sites and lower bounds
+for species divergence times for 18 sister species pairs of European butterfly. Gen y −1 is the number of generations per year. Samples
+from species marked with a † were barcoded to confirm correct identification. Species where Wolbachia presence was confirmed by
+Duplouy & Hornett (2018) and Hinojosa et al. (2019) are marked with ‡.
+
+CHAPTER 2
+
+35
+
+
+
+Figure 2.1. Nine of the 18 sister species pairs of butterfly in which we quantified genome-wide divergence meet at contact zones in
+southern Europe. In the left group, from left to right across northern Iberia are Satyrium, Pseudophilotes, Melanargia, and Iphiclides.
+In the centre group, from bottom to top across the Alps are Pontia, Euchloe, Pyrgus, and Zerynthia. Finally, on the right across the
+Balkans is the genus Spialia.
+
+CHAPTER 2
+
+36
+
+
+
+CHAPTER 2
+
+Figure 2.2. Species divergence time estimates (τ ) plotted against mean genetic
+divergence (dxy ) for 18 European butterfly sister species pairs. Pairs which abut at
+contact zones (degree of sympatry ≤ 0.2) are shown in yellow, sympatric pairs with
+substantial range overlap (> 0.2) in blue. The vertical dashed line represents the
+beginning of the Pleistocene (2.6 MYA), and the vertical grey bar indicates the midPleistocene transition (0.8 to 1.2 MYA). The horizontal dotted lines represent the
+95% confidence intervals of τ estimates given the uncertainty in the mutation rate
+used for calibration (1.3-5.9x10−9 (Keightley et al., 2015)). The temperature data
+(five-point running means of global surface temperature) are taken from Hansen
+et al. (2013)
+
+37
+
+
+
+CHAPTER 2
+
+Figure 2.3. The distribution of pairwise differences, S in blocks of a fixed length
+of 4D sites in contact (upper box) and sympatric (lower box) pairs. The observed
+distribution in single-copy orthologues is shown in orange, the expectation under a
+history of strict divergence (estimated from π and da ) in grey. Pairs that show wider
+than expected distributions are marked with an asterisk (*) and species which
+show narrower than expected distributions are marked with a plus (+).
+
+38
+
+
+
+Figure 2.4. Mitochondrial dxy (left) and da (right) are weakly correlated with mean nuclear divergence (R2 = 0.3565 and 0.2732,
+respectively). The coloured lines show the interactions for pairs that form contact zones and sympatric pairs. The two highlighted pairs
+(Iphiclides and Leptidea) have known Wolbachia associated sweeps and low mt π (and so high mt da ).
+
+CHAPTER 2
+
+39
+
+
+
+CHAPTER 2
+
+2.4
+
+Discussion
+
+We quantify and compare genome-wide divergence across 18 sister species pairs
+of European butterflies. Simple estimates for the onset of species divergence
+based on net gene divergence (da ) and a direct mutation rate estimate for butterflies suggest that the majority of pairs have diverged before the onset of the major
+Pleistocene glacial cycles. Our results support the notion that the modern contact zones are secondary between species that began to diverge much earlier, in
+the Pliocene or early Pleistocene. Thus, even though the current ranges of many
+taxon pairs reflect glacial refugia, their initial divergence during the Pliocene or
+early Pleistocene is unlikely to have been triggered by repeated cycles of range
+connectivity and vicariance into refugia, as envisaged by the species-pump hypothesis and phylogeographic studies based on mt and allozyme data (e.g. Lai &
+Pullin, 2004; Schmitt, 2007; Habel et al., 2008; Todisco et al., 2010; Zinetti et al.,
+2013) because substantial glaciation across continents did not develop (Bishop
+et al., 2011) until the ’mid-Pleistocene transition’ 0.8-1.2 MYA and the shift from
+41,000 to 100,000 year glacial cycles. Given the antiquity of most sister species, it
+is perhaps unsurprising that we do not find any relationship between current range
+overlap and the time since divergence. Specifically, species pairs that form contact zones are not significantly younger than pairs that broadly overlap in range.
+However, we do find that strong signals of post-divergence gene flow are restricted
+to contact-zone pairs. It is likely that the absence of sympatric pairs with significant gene flow reflects a simple survivorship bias: any incipient species pairs with
+significant gene flow might have already collapsed. Likewise, we are more likely
+to observe old contact zones pairs that have survived repeated glacial cycles.
+Our finding that mt divergence between sister species is only weakly correlated
+with mean nuclear divergence and the possibility that net mt divergence may be
+greater for contact zone than sympatric species pairs as a result of reduced genetic diversity (note that the differences in da and mean π between contact zone
+
+40
+
+
+
+CHAPTER 2
+and sympatric pairs are marginally non-significant, p = 0.09 and 0.07 respectively),
+could suggest that contact zone species may be subject to more frequent selective sweeps linked to mitochondria. Such sweeps may be acting on mt variation
+directly or, indirectly, through maternally inherited genomes or chromosomes (e.g.
+Wolbachia (Jiggins, 2003) and the W chromosome) and have been documented
+in a number of Lepidopteran systems (Graham & Wilson, 2012; Kodandaramaiah
+et al., 2013; Ritter et al., 2013; Gaunet et al., 2019; Martin et al., 2020) (see Table 2.1 for species in this study with confirmed Wolbachia presence). Our results
+raise the intriguing possibility that such sweeps could play a role in the build-up
+of reproductive isolation (Giordano et al., 1997; Shoemaker et al., 1999; Rokas,
+2000).
+
+2.4.1
+
+Sources of dating uncertainty and bias
+
+Since we have assumed the simplest possible demographic null model of species
+divergence without gene flow using da , our estimates of divergence between sister species based on da should be interpreted as lower bounds. Any gene flow
+between sister species would reduce da and species divergence estimates both
+by decreasing dxy and by potentially increasing π (in the recipient species).
+Calibrating absolute split times involves assumptions about both the generation
+time and the mutation rate. We have assumed that the mutation rate is the same
+(per generation) across all species pairs, irrespective of their generation time and
+applied a direct lab estimate of the per generation mutation rate from the tropical butterfly H. melpomene. Whilst there is good evidence for a generation time
+effect on mutation rates in invertebrates (Thomas et al., 2010), our assumption
+of a simple linear relationship between generation time and sequence divergence
+may be overly simplistic. In particular, if temperate European species, which have
+longer average generation times than H. melpomene, have a higher per generation mutation rate, we would have overestimated the age of sister species. In contrast, given that generation time varies between populations, species, and likely
+41
+
+
+
+CHAPTER 2
+through time, our use of the average minimum generation time (within each pair)
+as a proxy for the long-term generation time is conservative: assuming longer
+average generation times would yield even older estimates species divergence.
+Likewise, while our assumption that 4D sites evolve under strict neutrality may
+be unrealistic, it is conservative with respect to our inference of old sister species
+divergence. For example, assuming that a fraction of 0.22 of 4D sites is under
+strong selective constraint due to codon usage bias (Lawrie et al., 2013), would
+result in an underestimation of T by 22%. Given these uncertainties in calibration,
+our absolute time estimates should be interpreted with caution until direct mutation
+rate estimates for temperate butterflies are available. However, in the absence of
+information on mutation rate heterogeneity across Lepidoptera, our main conclusion that divergence between most sister species of European butterflies predates
+the Pleistocene would still hold if mutation rates were higher by a factor of two.
+Given that the direct estimate of the de novo mutation rate in H. melpomene is
+similar to spontaneous mutation rate estimates for other insects (Keightley et al.,
+2014), this seems extremely unlikely. While our split time estimates may be surprising in light of previous phylogeographic studies on European butterflies based
+on mt diversity (e.g. Lai & Pullin, 2004; Schmitt, 2007; Habel et al., 2008; Todisco
+et al., 2010; Zinetti et al., 2013), our divergence estimate for Leptidea reali and
+L. sinapis, the youngest and only pair for which divergence has been estimated
+based on genome-wide data before, is lower than previous estimates (Talla et al.,
+2017).
+
+2.4.2
+
+Glacial cycling and the Messinian salinity crisis
+
+Taking our estimates of species splits at face value, the divergence of eleven
+species pairs predates the onset of Pleistocene glacial cycling > 2.6 MYA (Gibbard & Head, 2009). This is not compatible with the idea that, overall, recent speciation events in European butterflies were initiated by the range shifts into and
+out of glacial refugia during the Pleistocene. However, our age estimates do of
+
+42
+
+
+
+CHAPTER 2
+course not rule out that Pleistocene range shifts and vicariance may have played
+an important role in completing speciation processes, e.g. through reinforcement
+and/or the evolution of intrinsic incompatibilities.
+A major geographic event that could have initiated species divergence in Europe before the onset of Pleistocene glacial cycling is the Messinian salinity crisis
+(MSC) ≈ 6 MYA during which the Mediterranean greatly reduced in size (Krijgsman et al., 1999). As a consequence, Europe and Africa were connected across
+the strait of Gibraltar until the Zanclean flood when the Atlantic reconnected to
+the re-expanding Mediterranean sea. It is plausible that this created a strong
+dispersal barrier for many species that previously had continuous distributions
+around the Mediterranean basin and may have initiated divergence into the east
+and west European/Mediterranean sister taxa. While the MSC has been considered a plausible trigger of species divergence in amphibians (Nürnberger et al.,
+2016) and reptiles (Kaliontzopoulou et al., 2011) and butterflies in the Melitaea
+radiation (Leveneu et al., 2009), this remains of course speculation.
+
+2.4.3
+
+Do European butterfly species fall within the grey zone of speciation?
+
+Roux et al. (2016) conducted a comparative analysis of divergence and gene flow
+across 61 pairs of sister taxa and found that pairs with net synonymous divergence of > 2% rarely show evidence for ongoing gene flow. In contrast, taxa with
+da between 0.5% and 2% may show some evidence for ongoing gene flow and
+ambiguous species status, suggesting that speciation may be incomplete. While
+our five youngest pairs (Brenthis, Colias, Leptidea, Pseudophilotes, and Pyrgus)
+fall in this “grey zone of speciation”, we only find evidence for gene flow in one
+(Pseudophilotes). In contrast, we find a clear gene flow signal in three more diverged pairs: Iphiclides, da = 2.09%; Zerynthia, da = 2.79%; Pontia, da = 4.05%.
+However, as we have focused sampling on ”good species” sensu Mallet (Descimon & Mallet, 2009) we are missing the recent (intraspecific) end of the continuum
+of divergence described by Roux et al. (2016). It will be interesting to test to what
+43
+
+
+
+CHAPTER 2
+extent intraspecific divergence times between different refugial populations of butterflies are concentrated in the mid Pleistocene, a pattern that has been found for
+other herbivorous insect and their parasitoids (Bunnefeld et al., 2018) and quantify
+the overlap between inter and intraspecific divergence times. Nevertheless, our
+contrasting finding of both gene flow signals in old contact zone pairs (e.g. Pontia) and no evidence for gene flow (and complete sympatry) in the youngest pair
+(Leptidea) suggests that the ”grey zone of speciation” may be very wide indeed
+for European butterflies.
+
+2.4.4
+
+Outlook
+
+Given the challenges of demographic inference from transcriptome data (in particular the high relative recombination rate in butterflies), we have deliberately
+resisted the temptation to over-interpret models of demographic history. Our goal
+was instead to establish robust and comparable lower bounds for the age of butterfly sister species in Europe. Being based on mean divergence at 4D sites, these
+lower bounds for species ages make minimal assumptions and are unaffected by
+recombination. Likewise, we have decided to focus on a simple and conservative
+diagnostic for introgression.
+Resolving these speciation processes in greater detail will require examination
+of whole-genome data from larger samples under realistic models of speciation
+history. Fitting explicit models of speciation to whole-genome sequence data, ideally including both selection and gene flow will undoubtedly refine estimates for
+the onset of divergence between these species pairs and overcome many of the
+biases inherent in basing such inferences on transcriptome data. Perhaps even
+more importantly, it would allow us to quantify the likely end points (if present) of
+speciation processes. While it is straightforward to determine lower bounds for
+the onset of divergence under simple null models that assume no gene flow, as
+we have done here, estimating upper bounds of species divergence in the presence of gene flow is a much harder inference problem. As pointed out by Barton
+44
+
+
+
+CHAPTER 2
+& Hewitt (1985), the initial time of divergence may be unknowable given that postdivergence gene flow eventually erases all information about this parameter. Although current and historic levels of gene flow between European butterfly sister
+species remain to be determined, our results already suggest that their speciation
+histories are older and potentially slower than had been assumed by previous phylogeographic studies based on mt data. It will be fascinating to understand the
+evolutionary forces that drive both this general pattern as well as its exceptions,
+in particular, the selection responsible for the origin of very young but complete
+(in terms of reproductive isolation) cryptic species such as Leptidea (Talla et al.,
+2019) and the recently discovered Spialia rosae (Hernández-Roldán et al., 2016).
+
+45
+
+
+
+Chapter 3
+The short and the long of it: regions of low
+hybridisation are barriers to gene flow between the
+scarce swallowtails
+Abstract
+Many closely related species continue to hybridise after millions of generations of
+divergence, however, it remains unclear whether regions of the genome which do
+not introgress across hybrid zones are associated with long-term barriers to gene
+flow. Here, we analyse whole-genome sequencing data to investigate the speciation history of the scarce swallowtails Iphiclides podalirius and I. feisthamelii,
+which abut at a narrow contact zone north of the Pyrenees. We first fit explicit
+models of the speciation process and quantify the heterogeneity of effective migration rates to identify long-term barriers to gene flow using individuals sampled
+across the range. Secondly, we investigate the recent ancestry of individuals
+from the hybrid zone using genome polarisation. We find that Iphiclides butterflies likely diverged under an isolation with migration model, with a low rate of
+long-term gene flow from I. feisthamelii into I. podalirius, and complete reproductive isolation across ≈ 25% of the genome. Our results show that regions of low
+hybridisation are associated with long-term barriers to gene flow. Although the
+origins of reproductive isolation in this system remain unclear, our results suggest
+that barriers to gene flow in deep time do maintain divergence between these
+hybridising sister species.
+
+46
+
+
+
+CHAPTER 3
+
+3.1
+
+Introduction: speciation in the face of gene flow
+
+A principle goal of speciation genomics is to identify the genetic basis of reproductive isolation (RI) between diverging species and understand what demographic
+and selective processes and genetic architectures lead to a build-up of RI (Campbell et al., 2018). In the genomic era, we now know that speciation in the face
+of gene flow is not only possible (Bush, 1994; Dieckmann & Doebeli, 1999; Nosil,
+2008; Feder et al., 2012) but frequent (Taylor et al., 2001; Wang et al., 1997; Martin
+et al., 2013; Roux et al., 2016; Taylor & Larson, 2019). Closely related species often continue to hybridise after millions of generations of divergence (Mallet, 1986;
+Harrison et al., 1990; Rieseberg et al., 1999; Sankararaman et al., 2014), and –
+despite low levels of gene flow – remain distinct (Stankowski et al., 2021). However, given the long time scale over which speciation occurs, the processes which
+contribute to reproductive isolation are likely to vary over time along the speciation continuum (Drès & Mallet, 2002). Stankowski & Ravinet (2021) define the
+speciation continuum as a continuum of reproductive isolation, from incipience to
+complete hybrid inviability, and highlight that the species we observe today are
+at different stages along this continuum. For example, many plant and animal
+species, at various stages of divergence, form secondary contact zones across
+temperate regions (Hewitt, 1988; Remington, 1968). We know that in European
+butterflies, the onset of speciation predates the secondary contact zones we observe today by two orders of magnitude. In other words, modern contact zones
+are likely one of many instances of secondary contact generated by glacial cycling
+over the last 800,000 years (Ebdon et al., 2021). This leads to the question of how
+much overlap there is between regions of the genome that become established
+as barriers in the long term and so are likely to drive speciation and barriers that
+act in the short term and are selected against in current secondary contact zones.
+During the speciation process, locally beneficial alleles may be selected against if
+they migrate into unfavourable environments and/or genetic backgrounds, reduc-
+
+47
+
+
+
+CHAPTER 3
+ing effective gene flow (Lenormand, 2002). Over time, as gene flow decreases,
+these barrier regions may expand through ’divergence hitchhiking’ until species
+are reproductively isolated from one another (Wu, 2001; Via, 2012; Feder et al.,
+2012). Additionally, gene flow may vary over time as a consequence of range
+shifts and/or other changes in demography (such as glacial cycling), and – as a
+consequence – the selective forces and targets underpinning reproductive isolation may vary over time. Periods of complete allopatry during which gene flow
+is interrupted facilitate the build-up of strong intrinsic barriers (Bank et al., 2012).
+On secondary contact, gene flow may recommence as long as selection against
+admixture is weak (Lenormand, 2002). However, species frequently remain distinct in the face of gene flow (Stankowski et al., 2021). Genetic studies of hybrid zones show us that introgression may vary considerably along the genome
+(Payseur & Rieseberg, 2016): while some genome regions harbouring strong
+barriers/incompatibilities act as strong barriers and show steep clines (Barton &
+Bengtsson, 1986; Yang et al., 2020), introgression across species at other regions
+is unimpeded by selection or even advantageous. Whilst the processes associated with reproductive isolation at the onset of divergence and secondary contact
+may differ, we would expect there to be an overlap in the genomic regions that act
+as barriers in these two time scales. Perhaps surprisingly very few studies have
+compared the short-term selection against heterospecific ancestry in hybrids with
+long-term barriers.
+
+3.1.1
+
+Inferring reproductive isolation on the long scale
+
+To infer migration rates in deep time, we can fit models of the speciation process
+to sequence data. The isolation with migration (IM) model was first described by
+Nielsen & Wakeley (2001), to estimate long-term migration rates from multilocus
+data. Under this model, an ancestral population diverges at some time into two
+descendent populations, which both experience gene flow until the present. The
+effective migration rate inferred under the IM model gives a long-term (i.e. an aver-
+
+48
+
+
+
+CHAPTER 3
+age from the split time to the present) measure of selection against heterospecific
+e
+,
+ancestry and can be used to approximate reproductive isolation (RI = 1 − memmax
+
+as per Westram et al. (2022)). Nielsen & Wakeley (2001) fit the IM model to DNA
+sequence data using Markov chain Monte Carlo-based approaches, but while extensions to this approach have been developed (see Pinho & Hey (2010)), it has
+generally remained difficult to apply these methods to WGS data. However, for
+small samples, Wilkinson-Herbots (2008) and Lohse et al. (2011) have derived analytic expressions for the probability of multilocus data, which allow fitting the IM
+model to WGS data in a composite likelihood framework. As genealogies within
+populations rapidly coalesce to a small number of ancestral lineages, sampling
+a small number of individual genomes maximises replication under the coalescent, i.e. the number of genealogies and ancestors (Felsenstein, 2006). Alternatively, simulation-based approaches such as DILS (Fraïsse et al., 2021) and ABLE
+(Beeravolu et al., 2018) utilise approximate Bayesian computation and compositelikelihood frameworks respectively to infer demographic models. Despite this, inferring variation in effective migration (me ) along the genome has proven to be
+computationally difficult (Lohse et al., 2016) and as a result, we still lack a good
+understanding of the evolutionary forces and genomic features associated with
+long-term reproductive isolation.
+Here we use a new composite likelihood method gIMble (Laetsch et al., 2022),
+which leverages symmetries in the coalescent (Lohse et al., 2016), to infer variation in me and identify putative barriers to gene flow along the genome.
+
+3.1.2
+
+Inferring reproductive isolation on the short scale
+
+We can learn about short-term barriers to gene flow by colouring the genomic
+ancestry of hybrid individuals by source. Hybrid individuals may harbour homozygous genotypes where both alleles are from one of either parental species or
+heterozygous genotypes with one allele from each. These genotypes may occur in tracts along the genome, the number and length of which is a function of
+49
+
+
+
+CHAPTER 3
+the number of generations since the initial hybrid ancestor. The points at which
+tracts change from one genotype to another are formed by recombination events,
+analogous to Fisher’s junctions (Fisher, 1949; Thompson, 2018). Hence, the size
+and distribution of heterozygous tracts which have introgressed onto homozygous
+parental backgrounds contains information about the number of generations of introgression (Shchur et al., 2020). For example, F1 individuals are heterozygous
+by source (H = 1 see Figure D.3) for the whole genome, whilst F2 backcrosses
+have half as many heterozygous genotypes (H = 0.5).
+New methods are being developed to analyse whole genome resequence (WGS)
+data from hybrid zones. In particular, numerous methods are available for the
+“painting” of local ancestry which facilitate the identification of introgressed tracts
+(Lawson & Falush, 2012; Baird et al., 2022). Chromosome painting is the process
+of labelling which alleles in the genome are diagnostic of either of two populations
+across a barrier to gene flow. Once a data set has been polarised, given a set of
+diagnostic SNPs, one can observe where in the genome an individual is heterozygous or homozygous for either population. Therefore, using markers diagnostic
+for “pure” populations, we can quantify the hybridity of individuals and regions of
+the genome, which allows us to diagnose where introgression occurs (Szymura &
+Barton, 1986).
+It is difficult to sample sets of diagnostic markers with confidence. Hence, here
+we use diem, which allows us to identify diagnostic markers using genome-wide
+SNP data by polarising genomes without the need to declare “pure” reference
+samples, in a computationally efficient manner (Baird et al., 2022). Traditional
+approaches for identifying diagnostic markers rely on sets of reference samples
+that are deemed “pure” a priori. However, this assumption introduces bias which
+reduces the power to detect gene flow, as many sequenced polymorphisms are
+not fixed for different alleles between sister species (Gompert et al., 2017).
+
+50
+
+
+
+CHAPTER 3
+
+3.1.3
+
+Speciation in Iphiclides butterflies
+
+Here we quantify introgression across a hybrid zone and estimate long-term effective migration rates (me ) to investigate whether hybridising species remain distinct
+through ancient barriers. To test this, we investigate the speciation history of two
+sister species in the genus Iphiclides, I. podalirius and I. feisthamelii. These southern European ’scarce swallowtails’ are large papilionids, whose larvae typically
+associate with various species of Prunus. I. podalirius ranges across the north
+of the Mediterranean from France to west Asia. I. feisthamelii is restricted to the
+Iberian peninsula and the northwest of Africa (Figure 3.1). Despite a long understanding of the phenotypic differences between the two species (Godart, 1842),
+including genital morphology (Coutsis & Van Oorschot, 2011) and male ultraviolet wing patterns (Gaunet et al., 2019), their taxonomic status was disputed after
+DNA barcoding at the COX1 locus revealed that the two taxa share mitochondrial
+haplotypes (Wiemers, 2003; Wiemers & Fiedler, 2007). However, it was recently
+shown that mt ancestry reflects an introgressed selective sweep (Gaunet et al.,
+2019) linked to mitochondria (most likely Wolbachia) and we now know that the
+two taxa diverged at least 1.2 million years ago (Wiemers & Gottsberger, 2010;
+Ebdon et al., 2021). Today, these two species abut at a narrow contact zone near
+the Pyrenees (Descimon & Mallet, 2009) (Figure 3.1) – which must have formed
+since the last glacial maximum – where they are thought to hybridise. As evidence
+for recent hybridisation is based on an investigation of morphologies of a small set
+of museum specimens from France (Lafranchis et al., 2015), the putative hybrid
+zone has not yet been described genetically. Together these factors make Iphiclides an ideal study system for investigating the association between long and
+short-term barriers to gene flow.
+
+3.1.4
+
+Aims and objectives
+
+Here we use WGS data to investigate the history of speciation and quantify both
+long and short-term barriers between I. podalirius and I. feisthamelii. We first fit a
+51
+
+
+
+CHAPTER 3
+background demographic model of speciation for this species pair and infer variation in the rate of long-term effective migration along the genome to locate putative
+barriers to gene flow. We then quantify recent introgression in six putative hybrid
+individuals sampled from the Iphiclides hybrid zone (Figure 3.1) using chromosome painting and assess the genetic evidence of ongoing hybridisation between
+these species. Finally, we investigate the overlap between long-term barriers to
+gene flow and genomic regions that are depleted for recent introgression. We
+address the following questions:
+i) What is the direction and rate of gene flow between I. podalirius and I. feisthamelii
+since their initial divergence?
+ii) How much of the Iphiclides genome is a barrier to gene flow between this
+species pair, and how are barrier regions distributed across the genome?
+iii) Are known Lepidopteran ’speciation genes’ barriers to gene flow between I.
+podalirius and I. feisthamelii?
+iv) Is there evidence for recent gene flow between the species via complex hybrids
+generated in the hybrid zone?
+v) Are long-term regions of reduced gene flow also underrepresented in regions
+of introgression across the hybrid zone?
+
+3.2
+3.2.1
+
+Methods
+Sampling and sequencing
+
+In total, we generated WGS data (150 basepair paired-end reads) for 20 individuals. This included six individuals from the Iphiclides hybrid zone (we will refer to
+these as “the HZ set”) in southern France (Figure 3.2, Table D.1) and 14 individuals sampled from throughout the ranges of both species (“the non-HZ set”). The
+non-HZ set includes six samples of I. podalirius and eight of I. feisthamelii. Field
+sampling was conducted in 2017 and 2018 at several locations across South52
+
+
+
+CHAPTER 3
+ern and Central Europe (Spain, France, Romania, and Hungary). Samples were
+hand-netted in the field. Bodies were flash-frozen from live in a liquid nitrogen
+dry shipper (Voyageur 12) and stored at -70 ◦ C shortly after capture and wings
+were retained for identification. DNA extractions for all individuals were performed
+using a Qiagen DNeasy Blood & Tissue kit. These extractions were used to prepare TruSeq Nano gel-free libraries, which were sequenced on a NovaSeq 6000
+at Edinburgh Genomics.
+
+3.2.2
+
+QC and read mapping
+
+Reads were trimmed and checked for quality using FastQC v0.11.8 (Andrews,
+2016) both before and after trimming with FastP v0.20.0 (Chen et al., 2018), using MultiQC v1.7 (Ewels et al., 2016) to visualise the results. Following this, reads
+were aligned to the I. podalirius reference assembly (Mackintosh et al., 2022a) using bwa-mem v0.7.17 (Li, 2013). We marked duplicates using sambamba v0.6.6
+(Tarasov et al., 2015). Variants were called using freebayes v1.3 (Garrison &
+Marth, 2012) (-k -w -j -T 0.02 -E -1 --report-genotype-likelihood-max).
+A principle components analysis (PCA) was performed on intergenic autosomal
+variants using plink v1.9 (Purcell et al., 2007). Genetic diversity (π), mean individual heterozygosity (H) and divergence (dXY ) were estimated at intergenic sites
+using the gIMble ’preprocess’ module (Laetsch et al., 2022).
+
+3.2.3
+
+Fitting models of speciation across the genome using the bSFS
+
+To infer the likely speciation history of this species pair and to estimate migration
+rates along the genome we used the software package gIMble (Laetsch et al.,
+2022). This analysis was restricted to the non-HZ set of individuals. As the inference pipeline assumes all linkage groups per sample are diploid, analysis was
+restricted to the autosomes to maximise sample replication by allowing the inclusion of both males and females (see section D.1 for a description of the I. podalirius
+karyotype and chapter 4 for an analysis including the Z chromosome). As demo53
+
+
+
+CHAPTER 3
+graphic models fit by gIMble assume a neutral model of evolution (Hey & Nielsen,
+2004), we focused analysis on intergenic sequence, i.e. genic and repeat-rich
+regions and contigs that were not scaffolded into chromosomes (0.5% of the assembly) were excluded. We filtered genotype calls to a minimum depth of eight
+reads per sample and a maximum depth of three times the mean coverage per
+sample. Additionally, genotype calls were required to have a minimum PHRED
+quality of one and SNPs within 2 bases of indels were removed. Following this,
+we use the gIMble ’measure’ module to quantify genetic diversity and divergence
+for the filtered subset of the data.
+We summarise genetic variation in short ’blocks’, which we assume to be nonrecombining, experience no direct selection, and evolve with a constant mutation
+rate. This allows us to leverage the shared genealogical history of closely linked
+variants and to treat blocks as statistically equivalent. In order to generate the
+bSFS, we split the genome into 64 base-long blocks and tallied all combinations
+of mutation types across heterospecific sample pairs (heterozygous in either one
+individual in a pair, heterozygous in both, or fixed between heterospecific individuals) per block up to a kmax = 2 (see Laetsch et al. (2022) for details). We fit a series
+of models to the bSFS of the whole genome: a model of strict divergence (DIV ),
+an IM model with migration in either direction with three Ne parameters (IM3 ), and
+a two Ne IM model (IM2 ) with gene flow from I. feisthamelii into I. podalirius. The
+direction of gene flow is discussed from a forward-in-time perspective.
+To capture migration rate heterogeneity along the genome we fit models to the
+bSFS of short runs of blocks we define as ’windows’. We inferred local effective
+migration rates (me,i ) in sliding windows of 28,125 intergenic blocks with a 20%
+overlap. This window length ensures a minimum span of 50kb per window, resulting in 14,173 windows. Following this, we fit the optimal global model to the
+bSFS of each window i using a pre-computed gridded analysis that infers the
+most likely (lnCLmax ) set of parameters per window. Note that whilst the choice
+of model and the split time T were fit globally, the remaining parameters (Ne for
+54
+
+
+
+CHAPTER 3
+each population and me,i ) were estimated locally. With the ancestral Ne and the
+Ne of I. feisthamelii synchronised, we fit Ne values from 100,000 to 1,500,000 in
+increments of 100,000. We fit Ne values for I. podalirius ranging from 100,000
+to 900,000 in increments of 50,000. We fit me values forwards in time from I.
+feisthamelii into I. podalirius of 0 to 4e-7, in increments of 5e-9. The split time
+T was fixed to the global result of 3,464,411 and the mutation rate was set to
+2.9E-9. We labelled windows as barriers to gene flow if a history of no gene flow
+(me,i = 0) had a greater marginal likelihood than the best fitting model assuming
+the genome-wide value of me , i.e. ∆B0 > 0.
+
+3.2.4
+
+Estimating the hybrid index of hybrid zone individuals
+
+We polarized all biallelic (across all individuals) SNPs that were not singletons
+(which are uninformative from chromosome painting) and estimated the hybrid
+index (HI) across the genome using the diem framework implemented in R (Baird
+et al., 2022). Variants were subject to the same filtering criteria as the gIMble
+analysis. All samples were used for polarisation, but subsequent analyses on
+hybrid indices were conducted using only the HZ set. We calculated the HI per
+chromosome and individual using all polarised genotypes with high diagnostic
+index (DI > -20). We also computed HI for each gIMble window and compared
+the variance in HI across the six HZ individuals between barrier and non-barrier
+gIMble windows using an ANOVA.
+
+3.3
+3.3.1
+
+Results
+Interspecific variation reveals a history of hybridisation in Iphiclides
+
+The first principle component of the PCA explains the interspecies differentiation
+between I. podalirius and I. feisthamelii (≈ 23% of the variation in the data, Fig
+3.2). Samples assigned morphologically to each species form two clusters along
+this axis; the North African I. feisthamelii samples are separated from the Eu-
+
+55
+
+
+
+CHAPTER 3
+Table 3.1. Estimates of genetic diversity (H, π, and θ), divergence (dxy ), and differentiation (FST ) at intergenic (I) and fourfold degenerate (4D) sites between I.
+feisthamelii and I. podalirius. Estimates for 4D sites are taken from Ebdon et al.
+(2021).
+H
+I. feisthamelii
+I. podalirius
+
+I
+0.00676
+0.00585
+
+4D
+0.00794
+0.00521
+
+π
+I
+0.00682
+0.00652
+
+θ
+I
+0.00692
+0.00659
+
+dxy
+
+FST
+
+I
+
+4D
+
+I
+
+4D
+
+0.0244
+
+0.0275
+
+0.594
+
+0.575
+
+ropean I. feisthamelii samples along the second principle component. Samples
+collected from the HZ (Figure 3.2) are distributed along the first principle component between the two parental species clusters (Figure 3.2). For the following
+analysis using gIMble, HZ and North African samples were excluded.
+Based on our criteria for filtering and defining intergenic sequence, we analysed
+39% of the genome (≈ 160 of 408 Mb). Genetic diversity and divergence estimated at intergenic sites were similar to previous estimates from these species
+from fourfold degenerate (4D) genic sites (Table 3.1).
+
+3.3.2
+
+An IM model supports a history of speciation with gene flow from I.
+feisthamelii into I. podalirius
+
+Out of the four demographic models we fitted to the bSFS (Table 3.2), the best
+fitting history is an IM3 model with unidirectional gene flow (forwards in time) from
+I. feisthamelii into I. podalirius. This model is more likely than an IM model with
+gene flow in the opposite direction or a model of strict divergence without gene
+flow. While simplifying the model to only include two Ne parameters (IM2,→pod
+where Nfei = Nanc ) gave a slightly worse fit, we decided to use this simpler scenario for two reasons. Firstly, we have greater power to detect gene flow under a
+model estimating fewer parameters, and, as we are interested in detecting barriers to gene flow, fitting such a model is conservative. Secondly, inference under
+this simpler model is much more computationally efficient. We synchronised the
+ancestral population size with I. feisthamelii as synchronising with I. podalirius fits
+worse. Thus, under the background/global IM model, we infer a genome-wide Ne
+
+56
+
+
+
+CHAPTER 3
+in both I. feisthamelii and the ancestral population of 554,000, an Ne in I. podalirius
+of 353,000, a long-term rate of gene flow me from I. feisthamelii into I. podalirius
+of 8.35E-8, and a split time (T ) 3,450,000 generations ago (Figure 3.2, Table 3.2).
+Since an IM model will always fit at least as well as the (nested) DIV model, we
+tested whether the improvement in model fit (ln CL) by simulating 100 data sets
+under the best fitting DIV history. The improvement in model fit for the IM3,→pod
+model relative to a DIV3 model in the empirical data is substantially higher than the
+improvement in fit across all bootstrap replicates simulated under a DIV history
+(Figure D.6).
+Per window, mean heterozygosity (H) was 0.00666 (SD = 0.00177) in I. feisthamelii
+and 0.575 (SD = 0.00180) in I. podalirius, and is higher on average towards the
+telomeres than in the centre of chromosomes (Figure D.10, D.7). Average genetic divergence (dxy ) was 0.0243 (SD = 0.00416), corresponding to an FST of
+0.0594 (SD = 0.0821) along the genome (Figure D.11). The estimates of local,
+i.e. window-wise Ne were approximately normally (Figure D.1) distributed. In contrast, the distribution of local me (me,i ) estimates peaks around the global estimate with a long tail up to the maximum value in the grid (Figure D.1). This last
+bin contains many windows which presumably simply reflects the long tail of the
+me,i distribution and the fact that we have truncated this distribution of high me,i
+estimates. Note that this truncation does not alter our subsequent analyses of
+barriers. Effective migration rates were negatively correlated with FST (Pearson’s
+ρ = -0.74).
+
+3.3.3
+
+Extensive genome-wide reproductive isolation between I. feisthamelii
+and I. podalirius
+
+Barriers to gene flow are widespread in the Iphiclides genome, making up 8.35%
+of windows (≈ 140Mb) across all chromosomes (Figure 3.3). There is substantial
+heterogeneity amongst chromosomes. For example, barriers make up 0.8% and
+1.4% of windows on chromosomes 31 and 29, up to 14.8% and 15.1% of windows
+57
+
+
+
+CHAPTER 3
+on chromosomes 24 and 17 respectively.
+Models of local adaptation under migration selection balance predict barriers to
+be concentrated in regions of low recombination. Barriers to gene flow and me,i
+are correlated with recombination rates over two different scales, between and
+within chromosomes. We expect me,i to be positively correlated with recombination rates (Barton & Hewitt, 1985) and thus a higher density of barriers to gene
+flow on long chromosomes (which have lower recombination rates per base). We
+do indeed find that the proportion of barrier sequence is positively correlated with
+chromosome length (Pearson’s ρ = 0.193).
+As recombination rates are reduced in the centre of butterfly chromosomes we expect them to be enriched for barriers. We indeed observe that, on average, barrier
+regions are closer to the centre of chromosomes than non-barrier regions (t-test,
+p = 0.0513), the opposite of the pattern observed between Heliconius melpomene
+and H. cydno (Laetsch et al., 2022).
+Contrary to expectation, CDS density (per base) is higher in non-barrier than barrier regions (Fisher’s exact test, p < 0.05, Figure D.4, see discussion). There is no
+difference in TE content between barrier and non-barrier regions (Fisher’s exact
+test, p > 0.05, Figure D.5).
+
+3.3.4
+
+Barrier loci cluster along the Iphiclides genome
+
+To quantify the length distribution of barriers, we grouped barrier windows that
+were contiguous or overlapping into barrier regions, which defined 464 barrier regions across all autosomes. After grouping, approximately 25% of the genome
+fell within barrier regions. The number of barrier regions per chromosome ranged
+widely from one and two on chromosomes 29 and 31 respectively, to 28 on chromosome 19 (with a mean of 16). The average barrier region length is ≈ 230kb
+(median ≈ 200kb), and ranges from ≈ 60kb to 960kb, bounded by the minimum
+window length (Figure D.8).
+
+58
+
+
+
+CHAPTER 3
+To test whether barrier regions cluster in the genome, we measured the mean
+distance between successive barrier regions in randomly sampled and shuffled
+data sets (equal in size to the empirical set of barrier regions). The observed
+mean distance was smaller than the distribution of means across resampled data
+sets both at the genome (Figure D.12) and the chromosome level (Figure D.13).
+This suggests that barrier regions are indeed closer together than expected by
+chance. Furthermore, the mean of the empirical distribution of distances is greater
+than the best-fitting exponential curve, which again suggests that barriers are not
+randomly distributed (Figure D.9).
+
+3.3.5
+
+Two known wing pattern genes are closely linked to barrier loci
+
+As this sister species pair differs subtly in UV wing patterns, we asked whether
+genes controlling butterfly wing pattern differences, which have been demonstrated to contribute to reproductive isolation in other young butterfly species, are
+barriers to gene flow in Iphiclides. We searched for four known wing pattern genes
+in the I. podalirus reference assembly using BLASTP: cortex, optix, doublesex and
+wntA. cortex, a gene known to regulate pattern switching across Heliconius butterflies (Nadeau et al., 2016; Livraghi et al., 2020) and in the classic peppered moth
+system (Hof et al., 2016) was found within a barrier region (Figure D.2a). Neither
+the genes optix (Figure D.2b) nor doublesex (Figure D.2c), associated with wing
+colour and iridescence in nymphalids (Zhang et al., 2017) and mimicry patterns in
+papilionids (Komata et al., 2016; Iijima et al., 2019) respectively, were labelled as
+barriers. The gene wntA which determines wing patterns associated with mimicry
+in some Heliconius species (Mazo-Vargas et al., 2017) was not found within a
+barrier region. However, it closely flanks a substantial block of barrier windows in
+the centre of chromosome 22 (Figure (Figure D.2d).
+
+59
+
+
+
+CHAPTER 3
+
+3.3.6
+
+Long-term barriers to gene flow are associated with regions of low
+hybridity
+
+For the following analysis using diem, all samples were included to polarise variants, but HI summary statistics were calculated only for the HZ set of individuals.
+The genetic composition of all six HZ individuals is complex, with no individuals
+representing simple early backcrosses. See chromosome 8 for a representation
+of a typical chromosome painting (Figure 3.4). We find substantial heterogeneity
+in the degree of hybridisation (as quantified by the HI) both between individuals
+and chromosomes (Figure 3.5). The two most intermediate HZ samples, IF_1325
+and IF_1322, show large stretches of all three possible ancestries, that is, tracts
+that are heterozygous by source or homozygous for each species respectively,
+and as such, they are likely complex hybrids. Both individuals show a mosaic of
+chromosomes which vary in which parental species they most resemble. Early
+generation hybrids have HIs of approximately 0.5 and subsequent generations of
+backcrossing move this value towards the parental values of 0 or 1 (as well as
+decreasing H). Thus, the relationship between the HI and interspecific H shows
+that samples 1325 and 1330 are complex backcrosses, and suggests that hybrids
+are introgressing towards I. podalirius. All samples except 1322 fall below the interspecific heterozygosity we expect under Hardy-Weinberg equilibrium (Figure
+D.3). Furthermore, chromosomes with low HI amongst I. podalirius-like samples
+(Figure 3.5) highlight where I. feisthamelii alleles may be introgressing into I. podalirius, for example on chromosome 7 (Figure 3.4).
+To summarise the hybridity across HZ samples along the genome, we calculated
+the variance in HI (V ar[HI]) across the six HZ individuals in windows defined in the
+gIMble analysis. Within windows a V ar[HI] of 0 means that all samples are perfect hybrids, and a V ar[HI] of 0.25 means that each sample reflects pure ancestry
+from either species. Alternatively, low values of V ar[HI] are equivalent to shallow clines, and high values of V ar[HI] are equivalent to steep clines. Thus, per
+
+60
+
+
+
+CHAPTER 3
+Table 3.2. Maximum composite likelihood parameters for four demographic models of species divergence. Whilst the model with three Ne parameters, IM3,→pod ,
+gave the best fit, we use the two Ne model for barrier inference to maximise the
+power to detect gene flow.
+model
+DIV
+IM2,→pod
+IM3,→pod
+IM3,→fei
+
+Nfei
+459,000
+554,000
+483,000
+438,000
+
+Npod
+416,000
+353,000
+377,000
+429,000
+
+Nanc
+T
+m
+1,240,000 1,810,000
+554,000 3,460,000 8.35E-08
+1,150,000 2,180,000 4.73E-08
+1,190,000 2,020,000 2.80E-08
+
+ln CL
+-310,884,113
+-311,438,975
+-310,494,739
+-310,733,475
+
+chromosome V ar[HI] highlights chromosomes with more intermediate genome
+polarities (Figure 3.5). We find that – at the scale of ≈ 100kb windows – V ar[HI]
+is negatively correlated with me,i (Pearson’s ρ = -0.14). To test whether regions
+of low hybridity are associated with long-term barriers to gene flow, we asked
+whether V ar[HI] is greater for barriers compared to non-barrier windows. We
+indeed found that V ar[HI] is increased for barrier windows (ANOVA, p < 2e-16),
+suggesting ongoing selection against hybrid ancestry within the HZ at long-term
+barrier loci (Figure 3.6).
+
+61
+
+
+
+CHAPTER 3
+
+Figure 3.1. (A) Sampling locations and ranges of I. feisthamelii (blue) and I. podalirius (red) butterflies. The samples collected from the hybrid zone are shown
+in black. (B) Sampling locations of butterflies from the Iphiclides hybrid zone.
+The dashed line represents the approximate center of the hybrid zone, based on
+samples collected by Lafranchis et al. (2015). The circular samples resemble I.
+feisthamelii, and the triangular samples are intermediate hybrids.
+
+62
+
+
+
+CHAPTER 3
+
+Figure 3.3. Barriers to gene flow between I. feisthamelii and I. podalirius. The
+red bars in the top panel highlight the location of barrier windows. The bottom
+panel shows for each gIMble window, the difference in ln CL of me,i = 0 from the
+background me = 1e − 7, ∆B0 . In windows where ∆B0 > 0, a model of strict
+divergence is more likely than an IM model. We highlight these barrier windows
+in red.
+
+Figure 3.4. Chromosome paintings of chromosomes seven (upper) and eight
+(lower). Samples in black are from the Iphiclides HZ. Blue SNPs are homozygous for I. feisthamelii alleles, and red SNPs are homozygous for I. podalirius
+alleles. Yellow SNPs are heterozygous for I. feisthamelii and I. podalirius alleles.
+64
+
+
+
+CHAPTER 3
+
+Figure 3.6. The distribution of V ar[HI] across gIMble barrier windows (grey)
+and non-barrier windows (orange). V ar[HI] calculated per window across HZ
+samples is greater within long-term barrier regions than in non-barrier regions
+(ANOVA, p < 2e-16).
+3.4
+
+Discussion
+
+Much of the recent research on the genomics of speciation has focused on quantifying the long-term average rate of gene flow between taxa by fitting demographic
+models which generally assume that migration occurs at a low rate and over
+timescales of Ne generations (Excoffier et al., 2013; Aeschbacher et al., 2017;
+Mondal et al., 2019; Fraïsse et al., 2021). Alternatively, one may investigate the
+factors underlying heterogeneity in very recent introgression (10s or 100s of generations) in hybrid zone studies (for example: Buggs (2007); Teeter et al. (2008);
+Turner & Harr (2014); Hagberg et al. (2022)) or crossing experiments (Poikela
+et al., 2022a). Although one would expect heterogeneity long-term effective migration rates to be predictive of recent selection against heterospecific alleles in
+recent hybrids, we have surprisingly little empirical data about how barriers on
+these two timescales are related. This is in part due to the difficulty of identifying
+long-term barriers to gene flow between closely related species, the inference of
+which is confounded by other selective processes (Ravinet et al., 2017). Similarly,
+
+66
+
+
+
+CHAPTER 3
+mapping barriers to gene flow in hybrid zone data is an inherently hard inference
+problem, given the difficulties of sampling unbiased diagnostic loci (Baird et al.,
+2022).
+To address this, we have fitted explicit demographic models of speciation to the
+bSFS to infer the heterogeneity in effective migration between two sister species of
+Iphiclides butterflies. We intersect this inference with signals of heterogenous introgression across a hybrid zone estimated using genome polarisation, a method
+– that contrary to our modelling of long-term barriers – makes no assumptions
+about population genomic processes or parameters.
+
+3.4.1
+
+Evidence for both long-term and recent gene flow between the scarce
+swallowtails
+
+Our results suggest that the long-term demographic history of I. podalirius and
+I. feisthamelii is well approximated by an IM model with a low rate of unidirectional migration from I. feisthamelii into I. podalirius. Thus our analysis adds to
+the growing number of young species pairs for which a signal of long-term and
+ongoing migration at a continuous rate has been estimated, including great apes
+(Mailund et al., 2012), Heliconius, Coenonympha, and Brenthis butterflies (Martin
+et al., 2013; Capblancq et al., 2019; Mackintosh et al., 2022b), molluscs (Hirase
+et al., 2021), angiosperms (Papadopulos et al., 2011), birds (Reifová et al., 2016),
+Drosophila (Garrigan et al., 2012), and many more.
+However, importantly, the global effective migration rate we infer in Iphiclides is
+much smaller than analogous estimates for other butterfly systems including Heliconius and Brenthis (Laetsch et al., 2022; Mackintosh et al., 2022b)). Although
+this low background level of migration genome-wide reduces the power to identify
+barriers to gene flow, we find barrier regions distributed across and along all autosomes. Furthermore, we find evidence for ongoing introgression between the
+twoIphiclides across a narrow HZ which is characterized by the presence of complex hybrids, the formation of which must have involved numerous generations of
+67
+
+
+
+CHAPTER 3
+hybridisation.
+We reiterate that amongst “good” sister species pairs of European butterfly, Iphiclides is both relatively young and one of the few for which there is a prior expectation about ongoing gene flow given the morphological evidence for a hybrid
+zone (Ebdon et al., 2021; Verity, 1947). It is therefore likely that species pairs
+that are older or which ceased hybridising further back in time have lower power
+to detect gene flow and hence barrier regions. If long-term gene flow is indeed
+low between established sister species, it may be difficult to study the speciation
+process using “good” sister species pairs (Descimon & Mallet, 2009).
+
+3.4.2
+
+The architecture of barrier loci
+
+We found substantial variance both in the size of barrier regions and in the proportion of barrier sequence per chromosome. Furthermore, our analyses suggest that
+barriers are clustered along the genome. As speciation is functionally complete
+in Iphiclides, we expect that a large proportion of the genome is reproductively
+isolated. Whilst we can only speculate on the nature of the phenotypes controlled
+by the loci, the distribution of barrier regions may be a result of several different
+processes.
+Firstly, reproductive isolation may have developed due to selection on major effect loci. The numerous large barrier regions suggest that divergence hitchhiking
+may have facilitated linked adaptive divergence (Via, 2012). The three largest
+peaks beyond the tail of the distribution highlight large barriers of 800, 820, and
+960 kb, which may be early/large-effect regions. To test whether several “speciation genes” are barriers, we investigate four putative wing pattern loci which
+are known to drive reproductive isolation in Heliconius butterflies (Nadeau et al.,
+2016; Livraghi et al., 2020; Hof et al., 2016; Zhang et al., 2017; Komata et al.,
+2016; Iijima et al., 2019; Mazo-Vargas et al., 2017). The genes cortex and wntA
+were found within and near large barrier regions respectively, suggesting that they
+(or other loci close by) may have been involved in reproductive isolation.
+68
+
+
+
+CHAPTER 3
+Secondly, reproductive isolation may be driven by polygenic traits. Theoreticians
+predict that polygenic barriers to gene flow are plausible (Fierst & Hansen, 2010),
+and research on mice (Turner & Harr, 2014) and flies (Morán & Fontdevila, 2014)
+suggests that reproductive isolation (due to hybrid sterility) has a polygenic architecture. In Iphiclides, barriers to gene flow aggregate on large chromosomes
+and towards chromosome centres, both regions with relatively low recombination rates, as we expect from barriers individually conferring small effects. This
+is consistent with previous research on Heliconius butterflies which demonstrated
+that patterns of introgression are correlated with recombination rate heterogeneity
+(Martin et al., 2019) (although recent evidence from Heliconius butterflies demonstrates enrichment of barrier loci towards chromosome ends(Laetsch et al., 2022)),
+and supports a polygenic barrier architecture.
+It must be noted that as the effective migration rates between these species are
+low, particularly relative to recent estimates in Heliconius and Brenthis butterflies
+using the same approach (Laetsch et al., 2022; Mackintosh et al., 2022b), we
+may have limited power to detect such small migration rates across all windows.
+As such, the apparent widespread distribution of small barrier regions may simply reflect a high false positive rate. Whilst not feasible with the current version
+of gIMble, this false positive rate could be quantified by simulating window-wise
+parametric bootstraps based on the gridded analysis.
+We investigate whether barriers are associated with particular genomic features
+but fail to find enrichment for coding sequence within barrier regions, as one might
+expect if reproductive isolation is driven by selection on genes. This is likely a
+consequence of the strong negative correlation between gene density and chromosome length (Pearson’s ρ = -0.421) on one hand and the strong positive correlation between barrier density and chromosome length on the other. These
+together may explain the strong negative correlation between gene and barrier
+density (Pearson’s ρ = -0.652), which is partially driven by the numerous small
+chromosomes with very high numbers of genes and small numbers of barriers.
+69
+
+
+
+CHAPTER 3
+Thus, despite the likelihood that selection at some loci is contributing to reproductive isolation, it appears on a broad scale that the architecture of reproductive
+isolation between these species is more strongly influenced by recombination rate
+heterogeneity.
+We find no difference in the proportion of TEs within and outwith barrier regions.
+While several suggestions have been postulated about how TEs may trigger RI,
+they do appear to contribute to hybrid inviability (Serrato-Capuchina & Matute,
+2018) and their role in speciation has not been extensively researched. It would
+be interesting for future studies to investigate the dynamics of TE introgression
+across the Iphiclides hybrid zone.
+
+3.4.3
+
+Long and short-term barriers to gene flow
+
+Genomic studies of speciation have either looked at HZs as natural laboratories
+or fitted complex models of the demography of speciation. Here, we leverage
+signals of short and long-term reproductive isolation to investigate whether barriers to gene flow on the coalescent scale and barriers to ongoing hybridisation
+co-occur in the genome. This allows us to investigate whether processes which
+drive speciation are shared at different points along the speciation continuum, as
+opposed to sampling species at different stages, which is unreliable if their speciation histories differ (Johnson & Miyanishi, 2008; Mérot et al., 2017; Stankowski
+& Ravinet, 2021). We demonstrate that hybridisation is greater in regions which
+have a long-term history of migration between species than within regions which
+are barriers to gene flow. In other words, we find that barriers to reproductive
+isolation in the long term are still relevant in the maintenance of species which
+continue to exchange migrants.
+This leads to several interesting conclusions. Firstly, in the absence of describing the genetic composition of a hybrid zone in detail (either due to its inherent
+difficulty or because no HZ exists), one can locate barriers to gene flow by fitting models of speciation to the bSFS. Secondly, regions of the genome which
+70
+
+
+
+CHAPTER 3
+maintain functional reproductive isolation between species may have been relevant in the long-term or early divergence of a pair of species. Indeed, it has been
+demonstrated in Heliconius butterflies that the same wing pattern genes maintain
+species differences both across hybrid zones (Nadeau et al., 2014) and in deep
+time (Laetsch et al., 2022). Furthermore, since we expect barriers to gene flow to
+accumulate during the speciation process, it is likey that only a small proportion of
+the HZ barriers we observe were relevant during the initial stages. Alternatively,
+there may be current barriers to introgression across hybrid zones which have
+only arisen recently or old incompatibilities which have collapsed (Xiong & Mallet, 2022). Thus, an important direction for future work is to develop quantitative
+predictions for the overlap between long and short-term barriers.
+
+3.4.4
+
+Limitations
+
+We have made several decisions to label/infer long-term barriers to gene flow conservatively: Firstly, we have fit a two Ne parameter model to maximise our power
+to estimate variation in me,i , given the very low background me in Iphiclides. Secondly, we have defined barriers using the strictest possible threshold (me,i = 0).
+Whilst this potentially excludes actual barriers with an me,i at flanking putatively
+neutral regions (which are the basis/input of our inference) greater than zero, this
+strict definition minimises the false positive rate. However, numerous factors may
+contribute to biases in our results (see Ravinet et al. (2017)). Without independent
+estimates of recombination rates, we cannot dissect to what degree recombination
+contributes to migration rate variation in our data. In an ideal scenario, we would
+weight migration rate estimates by recombination rate heterogeneity, but a recombination map does not yet exist for these species. Additionally, we have assumed
+that recombination does not occur within blocks, and given their size it is likely to
+be rare. However, it is still plausible that unaccounted-for recombination may lead
+us to underestimate migration rates, especially as recombination rates are high
+in butterflies (Martin et al., 2019). Similarly, we have assumed a single mutation
+
+71
+
+
+
+CHAPTER 3
+rate across the whole genome. We know that mutation rates vary both across the
+genome and across classes of mutation (Hodgkinson & Eyre-Walker, 2011), and it
+is unclear how mutation rate heterogeneity might bias barrier inference. However,
+variation in mutation rates is accounted for by allowing for variation in Ne .
+There may be scope to improve the power to detect weak gene flow through modelling more specific demographic scenarios. Firstly, whilst it is very likely that
+these species have undergone repeated rounds of separation and gene flow, we
+have fit a much simpler model that assumes a single continuous rate of migration.
+Expanding the gIMble framework to include isolation with initial migration (IIM)
+models may improve our power to detect ancient gene flow (Wilkinson-Herbots,
+2008; Laetsch et al., 2022). Secondly, we have modelled gene flow as unidirectional and inferred the most likely direction by comparing models. In reality, gene
+flow between these species may be bidirectional and asymmetric, a phenomenon
+which has been demonstrated in other systems (Yan et al., 2016; Ngeve et al.,
+2017; Banker et al., 2022). Whilst fitting more realistic models of gene flow is not
+currently feasible using this inference framework, it may be possible to extend the
+approach in the future (Bisschop, 2022).
+Given the small number of HZ samples, we were unable to characterise the HZ
+in terms of clines, and instead focused on simple measures based on hybrid index. We see considerable heterogeneity in the degree of hybridisation between
+and along chromosomes, which is concordant with other studies demonstrating
+heterogeneity in genome-wide introgression (Payseur & Rieseberg, 2016). Whilst
+one can identify introgressed tracts qualitatively by looking at polarised genome
+’paintings’, it would be interesting to use the length distribution to infer the age
+of the HZ (Pool & Nielsen, 2009). However, interpreting diem output directly in
+terms of ancestry tracts is problematic, as the former generally include an overabundance of numerous small tracts (one or a few SNPs) that occur within larger
+tracts. These are likely a reflection of gene conversion or noise and are not captured by analytic results for the length distribution of admixture tracts and junction
+72
+
+
+
+CHAPTER 3
+theory (Fisher, 1949; Gravel, 2012; Shchur et al., 2020).
+
+3.4.5
+
+Conclusion
+
+We have demonstrated an association between long-term and short-term signals
+of reproductive isolation, between a species pair of swallowtail butterflies. Despite
+being several million generations old, gene flow persists between these species
+across a narrow hybrid zone. Furthermore, the considerable number, varying size,
+and location of barrier regions suggests that the genomic architecture of speciation
+is likely a composite of both large effect, including known wing pattern genes, and
+polygenic loci. This is particularly shaped by recombination rate heterogeneity, a
+pattern previously observed in Heliconius butterflies (Martin et al., 2019). Whilst
+we have no understanding of the phenotypes determined by genes found within
+these barrier regions, these results pave the way for future research to investigate
+the phenotypic consequences of evolution at these loci. Finally, this study exists
+as part of the exciting first steps into explicit reproductive barrier inference, and
+as such may contribute to comparative investigations on patterns of speciation in
+the future.
+
+73
+
+
+
+Chapter 4
+Faster-male evolution and strong barriers to gene
+flow on the Z-chromosome between two swallowtail
+butterflies
+Abstract
+Although closely related species typically differ in sex-specific traits, it is unclear
+to what extent genes that are sex-biased or sex-limited in expression contribute
+to reproductive isolation. Sex-biased genes (SBGs) have been shown to evolve
+more quickly than unbiased genes through positive selection and to aggregate
+on the sex chromosomes, which also may evolve quickly and are known to underpin hybrid incompatibilities. Here I investigate whether SBGs contribute disproportionately to reproductive isolation due to their rapid rate of evolution in a
+pair of butterfly sister species. Using transcriptome and whole-genome sequence
+data, I quantify sex-biased gene expression and variation in genome-wide effective migration rates between the Scarce Swallowtails, Iphiclides podalirius and I.
+feisthamelii. While I find no evidence for faster Z evolution across all genes, I
+show that male-biased genes on the Z evolve faster than male-biased genes on
+the autosomes. I find no relationship between barriers to gene flow and the location of SBGs genome-wide. However, I do find enrichment for barriers to gene
+flow on the Z chromosome which may be partially driven by positive selection on
+male-biased Z-linked genes.
+
+74
+
+
+
+CHAPTER 4
+
+4.1
+4.1.1
+
+Introduction
+The two rules of speciation
+
+Many closely related species differ only in their reproductive structures or in other
+sex-limited traits (Darwin, 1871; Wallace, 1889) likely as a result of sexual selection (West-Eberhard, 1983) and/or reinforcement (Coyne et al., 2004). Phenotypic
+differences between the sexes are principally controlled by differences in gene expression or genes found on the sex chromosomes (Williams & Carroll, 2009), the
+latter of which have long been considered particularly important in the biology of
+speciation (Jablonka & Lamb, 1991). In fact, two of the most general empirical
+patterns in speciation, also known as the ’two rules of speciation’ (Coyne et al.,
+2004), are based on observations of reduced hybrid fitness driven by the sex chromosomes (Schilthuizen et al., 2011).
+Firstly, Haldane’s rule states that heterogametic hybrid offspring of two diverged
+populations/species are likely to be inviable or sterile (Haldane, 1922). Secondly,
+the large X/Z effect refers to the observation that relative to the autosomes, the sex
+chromosomes contribute disproportionately to reduced fitness in hybrids (Coyne
+et al., 2004). Numerous explanations for these phenomena have been put forward. Firstly, Bateson–Dobzhansky–Muller incompatibilities (BDMIs, see chapter 1) between autosomal loci and recessive sex-linked loci are only expressed
+in the heterogametic sex in F1 hybrids, an effect known as the ’dominance theory’ (Turelli & Orr, 1995). Secondly, BDMI’s may be of larger effect or more numerous on the sex chromosomes, although the reasons for this remain unclear
+(Presgraves, 2018). Thirdly, the faster male theory suggests that fast-evolving
+male-expressed genes lead to hybrid inviability, as a consequence of the numerous mechanisms of sexual selection on males (Wu & Davis, 1993). Genes which
+are sex-specific in expression are known to aggregate on the sex chromosomes
+(Ellegren & Parsch, 2007), and therefore faster evolution at these loci may contribute to the large X/Z effect. Furthermore, Rice (1996) demonstrates that male75
+
+
+
+CHAPTER 4
+beneficial sexually antagonistic evolution (which he predicts may aggregate on
+X chromosomes (Rice, 1984)), may lead to perpetual coevolution between the
+sexes. However, Haldane’s rule also holds for female heterogametic systems. In
+these cases, the two rules of speciation cannot be explained by the faster evolution of male-expressed genes (Coyne et al., 2004; Delph & Demuth, 2016). In
+male-heterogametic systems, the faster-male theory has been supported by the
+patterns of introgression at male and female sterility genes and the increased likelihood of misexpression of male genes (True et al., 1996; Hollocher & Wu, 1996;
+Tao & Jilin, 1993; Michalak & Noor, 2003; Schilthuizen et al., 2011). Even though
+these results point to a potential contribution of faster-male evolution to speciation, studies that quantify the effective rates of gene flow rates at fast-evolving
+male-expressed genes are lacking (see chapters 1 and 3 for further discussion
+on estimating migration rates), and as such, it remains unclear whether such loci
+are driving reproductive isolation.
+Haldane’s rule is almost ubiquitous across the tree of life, having been observed
+across many groups of vertebrates, insects (including Heliconius butterflies (Naisbit et al., 2002)), gastropods, nematodes, and plants (see Delph & Demuth (2016)
+for a summary). Similarly, the large X/Z effect (Coyne, 1992) has been observed
+across numerous male and female heterogametic systems, including Drosophila
+(Coyne & Orr, 1989), butterflies (Kronforst et al., 2013; Ficarrotta et al., 2022),
+birds (Ellegren, 2009; Runemark et al., 2018), angiosperms (Nelson et al., 2021;
+Hu & Filatov, 2016), frogs (Dufresnes et al., 2016), mice (Good et al., 2008), nematodes (Cutter, 2018), and fish (Kitano et al., 2009).
+Direct evidence for the large X/Z effect comes from the observation that a disproportionate number of loci underpinning sterility map to the sex chromosomes as
+seen, for example, in mice (Good et al., 2008) and flies (Coyne & Orr, 1989). Indirect evidence comes from population genetic studies which frequently observe
+increased genetic divergence (dxy ) and differentiation (FST ) on the X and Z chromosomes (Presgraves, 2008; Kronforst et al., 2013). As cautioned by Presgraves
+76
+
+
+
+CHAPTER 4
+(2018), these genetic patterns may be explained by the effects of linked selection
+and/or demographic history, and, as such, efforts should be made to infer gene
+flow by fitting statistical models of speciation history (Payseur & Rieseberg, 2016).
+However, we have very few quantitative estimates of how gene flow differs between sex chromosomes and autosomes and between genes that are sex-biased
+in expression relative to unbiased genes, especially in non-model systems.
+A notable additional hypothesis pertaining to the two ’rules of speciation’ is the
+faster X/Z effect (Charlesworth et al., 1987), which refers to the observation that
+protein-coding genes on the heterogametic sex chromosomes evolve faster than
+autosomal genes. This may be a result of dominance effects due to selection on
+X/Z-linked genes expressed in the hemizygous sex, higher gene density on X/Z
+chromosomes, accelerated fixation rates of mildly deleterious variation driven by
+increased genetic drift on X/Z chromosomes (see Vicoso & Charlesworth (2009)),
+or higher recombination rates on X/Z chromosomes relative to the autosomes
+in systems where the heterogametic sex does not recombine, thus reducing the
+strength of linked selective effects. Whilst the faster X/Z effect may contribute to
+Haldane’s rule and the large X/Z effect, evidence for it is mixed (Meisel & Connallon, 2013; Mongue et al., 2022). Importantly, the faster X effect is confounded
+with the fast evolution of male-expressed genes in male heterogametic systems,
+and, as such, it is useful to investigate the rate of evolution in male-expressed
+genes in female heterogametic systems, to facilitate disentangling the faster X/Z
+effect from the faster evolution of male-expressed genes.
+
+4.1.2
+
+Evolution in sex-biased genes
+
+Despite the often elaborate morphological differences between the sexes, males
+and females still share the vast majority of their genome (apart from the Y or W
+chromosome in male and female heterogametic systems respectively). However,
+optimal phenotypes may differ between the sexes, a conflict which may be resolved (or may not, see Cox & Calsbeek (2009)) by the evolution of differential
+77
+
+
+
+CHAPTER 4
+expression between males and females (Ingleby et al., 2015). As a result, phenotypic variation between the sexes often arises from differences in gene expression.
+Genes which are biased in expression to one sex or the other (sex-biased genes
+or SBGs) have been shown to evolve more quickly both at the protein level and
+in the degree of expression (Ellegren & Parsch, 2007).
+Evidence for the rapid evolution of SBGs has accumulated across many taxa: including fish (Yang et al., 2016), birds (Mank et al., 2007), nematodes (Albritton
+et al., 2014), flies (Meiklejohn et al., 2003), butterflies (Catalán et al., 2018; Huylmans et al., 2017), flowering plants (Scharmann et al., 2021), and brown algae
+(Lipinska et al., 2015). Numerous lines of evidence suggest that sexual selection
+on males is an important driver of the evolution and maintenance of male-biased
+gene (MBG) expression. For example, in birds, it has been demonstrated that sexual dimorphism is correlated with the degree of MBG expression (Harrison et al.,
+2015). In Drosophila melanogaster, enforced monogamy reduces MBG expression (Hollis et al., 2014), and in other species experimentally imposed sexual selection results in rapid expression divergence in both the male- and female-biased
+genes (Veltsos et al., 2022). Although evidence is accumulating that SBGs evolve
+quickly through positive selection, and in particular via sexual selection, natural
+selection may also act differently on males and females and thus should not be
+ruled out (Proschel et al., 2006; Ellegren & Parsch, 2007; Parker et al., 2019).
+As sex chromosomes frequently evolve rapidly (see the previous section on the
+faster X/Z effect), and SBGs are often concentrated on the sex chromosomes, it is
+important to consider both sex-linked and sex-biased genes jointly. For example,
+in female heterogametic systems, sexual antagonism involving SBGs should lead
+to an excess of recessive female-beneficial or dominant male-beneficial genes on
+the Z chromosome. The opposite is true for male heterogametic systems where
+we expect sexual antagonism to lead to an excess of recessive male-beneficial
+or dominant female-beneficial genes on the X chromosome (Ellegren & Parsch,
+2007).
+78
+
+
+
+CHAPTER 4
+Thus, if SBGs evolve rapidly, they may play an important role in the evolution of
+reproductive isolation between newly diverging species. If SBGs evolve through
+positive selection, then adaptive divergence between diverging populations may
+lead to reproductive isolation through the differentiation of traits associated with
+mating success (see mechanisms of sexual selection above), or the accumulation
+of BDMIs in hybrids between each population. Whilst SBGs may evolve through
+positive natural or sexual selection (Grath & Parsch, 2016), they are likely a component of sexual selection and antagonism on genomic divergence. However, it
+is not known whether they simply diverge rapidly or also cause incompatibilities,
+which requires estimates of gene flow rates. For example, using experimental selection, Wiberg et al. (2021) demonstrates that sexual selection leads to increases
+in sex-biased gene expression and genomic divergence between experimental
+lines.
+
+4.1.3
+
+Butterflies as a model system for studying speciation
+
+Although SBGs have been demonstrated to evolve rapidly (Ellegren & Parsch,
+2007), including in butterflies (Huylmans et al., 2017), we do not know if SBGs
+are key features in the genomic architecture of reproductive isolation. While a
+small number of studies have investigated SBG expression in the Lepidoptera,
+including Papilionid butterflies (Catalán et al., 2018; Huylmans et al., 2017), the
+intersection between Z-linkage, SBGs, and speciation has not yet been explored.
+Here I study two closely related sister species in the genus Iphiclides, I. podalirius
+and I. feisthamelii. Whilst these species diverged recently (Wiemers & Gottsberger, 2010; Ebdon et al., 2021), we know that their speciation has likely been
+completed given that the two species remain distinct across a narrow hybrid zone
+(see chapter 3). Thus, Iphiclides is an ideal taxon for inferring the population genetic processes of recent, yet complete speciation. Furthermore, phenotypic differences between these species are limited to sexually dimorphic traits, including
+genital morphology and male UV wing patterns (Gaunet et al., 2019), suggesting
+
+79
+
+
+
+CHAPTER 4
+that the differential evolution of sexually dimorphic traits has played a role in their
+speciation history. Finally, a chromosome-level whole-genome assembly of I. podalirius has recently been published (Mackintosh et al., 2022a), making this pair
+of butterfly sister species an ideal system for studying the interplay of speciation
+and the evolution of SBGs.
+
+4.1.4
+
+Aims and objectives
+
+Here I study the intersection between SBG expression, speciation and sex-linked
+genes in the butterflies Iphiclides podalirius and I. feisthamelii. I generate RNAseq
+data to quantify SBG expression for both Iphiclides species and analyse these
+data jointly with inferences on barriers to gene flow based on resequence data
+(see chapter 3). I address the following specific questions:
+i) Do SBGs evolve more rapidly than unbiased genes, in either expression and/or
+protein sequence?
+ii) Is the Z chromosome enriched for male or female-biased genes, as expected if
+positive selection is primarily acting on dominant or recessive mutations respectively?
+iii) Is the Z chromosome enriched for barriers to gene flow, as predicted by the
+large Z effect?
+iv) Are genomic regions with reduced gene flow between these sister species (i.e.
+barrier loci) enriched for SBGs?
+
+4.2
+4.2.1
+
+Methods
+Sampling and molecular work
+
+In total, whole body RNAseq data were generated for four male and four female I.
+podalirius morphologically sexed individuals. One male and one female of each
+species (I. podalirius and I. feisthamelii) were previously generated by Mackin80
+
+
+
+CHAPTER 4
+tosh et al. (2019) (Table E.1). Field sampling was conducted in 2017 and 2018 at
+several locations across Southern and Central Europe (Spain, France, Romania,
+and Hungary). Samples were hand-netted in the field and flash-frozen from live
+in a liquid nitrogen dry shipper (Voyageur 12) and stored at -70 ◦ C shortly after
+capture and wings were retained for identification. Samples were divided bilaterally and RNA was extracted from one half of each sample, including all body
+segments using a standard RNA extraction protocol (see Mackintosh et al. (2019)
+and Ebdon et al. (2021) for details). The generation of whole genome sequence
+(WGS) Illumina data used to infer barriers to gene flow is described in the methods
+section of chapter 3.
+
+4.2.2
+
+Transcriptome assembly, quality control, and quantifying gene expression
+
+Transcriptomes were assembled using all samples for each respective species
+and assessed in terms of quality following the protocol outlined in chapter 2 (Ebdon
+et al., 2021). Each transcriptome was aligned per isoform to the whole-genome
+assembly of I. podalirius (Mackintosh et al., 2022a) using minimap2 v2.17 (Li,
+2018). Transcripts that did not map uniquely, had poor identity (< 0.8), or poor
+query coverage (< 0.8) were removed from subsequent analysis.
+Transcriptome completeness was assessed using BUSCO v5 (Simão et al., 2015)
+on full transcriptome assemblies using the lepidopteraodb10 database (all scores
+>95%). Transcripts were processed with Transdecoder v5.5 (Haas et al., 2016)
+and retained based on BLAST (Camacho et al., 2009) and HMMER (Finn et al.,
+2011) homology search results. Only transcripts blessed as putative proteins by
+Transdecoder were used in subsequent analysis. Gene expression was quantified in TPM (Transcripts Per Kilobase Million) for each isoform using Kallisto
+v0.46.0 (Bray et al., 2016) for each sample.
+
+81
+
+
+
+CHAPTER 4
+
+Figure 4.1. Mean coverage of male samples against mean coverage of female
+samples estimated in 100kb windows across Hi-C scaffolds. The mean coverage
+of female samples along the first Hi-C scaffold is approximately half of the coverage of the male samples. As female butterflies are heterogametic, this indicates
+that Hi-C scaffold 1 is the Z chromosome.
+4.2.3
+
+Locating the Z
+
+To locate the Z chromosome, four male and two female WGS I. podalirius data
+sets (Table D.1) were mapped to the I. podalirius reference assembly (Mackintosh et al., 2022a) using minimap2 v2.17 (Li, 2018). Coverage in each individual
+was computed in 100kb windows using mosdepth v0.3.1 (Pedersen & Quinlan,
+2018). To identify sex-linked windows, I plotted the normalised mean coverage
+(in windows) of male against female reads. The resulting distribution separates
+windows into a sex-linked cluster (where female coverage is approximately half
+of male coverage) and an autosomal cluster (where female coverage is approximately equal to male coverage) (Fig. 4.1). Z chromosome contigs were defined
+as those with > 80% of windows with a log2 coverage ratio < -0.5.
+
+82
+
+
+
+CHAPTER 4
+To confirm the sex of each RNAseq sample, the proportion of Z-linked heterozygous sites was calculated for each individual. To do this, RNAseq reads were
+mapped to the reference assembly using hisat2 v2.2.1 (Kim et al., 2019). Coverage at mapped sites was determined using GATK CallableLoci v3.5 (McKenna
+et al., 2010). Sites with at least 10-fold coverage and a minimum MAPQ of 1 in
+each sample were considered suitable for variant calling. Callable loci were intersected between individuals using BEDTools v2.28 (Quinlan & Hall, 2010), variants were called using FreeBayes v1.3.1 (Garrison & Marth, 2012) and filtered
+for unbalanced SNPs and missing genotypes (RPL ≥1 && RPR≥1 && SAF≥1 &&
+SAR≥1 && N_MISSING=0) using BCFtools filter v0.1.19 (Li, 2011). Female individuals were identified by their greatly reduced proportion of heterozygous variants on Z-linked contigs compared to males.
+
+4.2.4
+
+Quantifying SBG expression
+
+To call SBGs, I used Sleuth v3.6.1 (Pimentel et al., 2017) which leverages the
+bootstrap sampling method adopted by Kallisto as a proxy for technical replication. A likelihood ratio test (LRT) was performed between Sleuth's full model and
+a reduced model assuming no difference in gene expression between the sexes.
+Genes with a significant LRT and those which had at least a 2-fold higher expression in one sex than the other were labelled as sex-biased. The classification into
+SBGs, MBGs, FBGs and unbiased genes (UBGs) was based on levels of gene
+expression in I. podalirius.
+To quantify the difference in levels of gene expression between I. podalirius and I.
+feisthamelii the Euclidean distance in overall expression between species was calculated for each orthogroup (Pereira et al., 2009; Huylmans et al., 2017). This was
+done using the relative abundance of TPMs per orthogroup and treating males and
+females as different tissues (Pereira et al., 2009). To test for statistical differences
+in gene expression between species Wilcoxon rank tests were performed on the
+Euclidean distance.
+83
+
+
+
+CHAPTER 4
+Dosage compensation was quantified by comparing expression (TPM) ratios between males and females on the Z chromosome with and without SBGs. Statistical
+significance was quantified using Mann-Whitney U tests.
+To test whether the Z chromosome is enriched for SBGs and/or barriers to gene
+flow I used a simple re-sampling procedure: 10,000 data sets equal in size to the
+Z chromosome (in terms of the number of windows in the respective category)
+were sampled at random from the whole genome and the distribution of residuals
+from the genome-wide average recorded. The Z chromosome was considered
+enriched if the observed proportion of SBGs or barrier windows was greater than
+95% of the re-sampled distribution.
+
+4.2.5
+
+Testing for positive selection
+
+RNASeq read pairs were mapped, variants called, and orthology inferred following
+the methodology outlined in chapter 2 (Ebdon et al., 2021). For SCOs, I calculated the average pairwise genetic diversity π and divergence dxy at zero-fold (0D)
+and four-fold degenerate (4D) sites using sequence alignments for one or two
+diploid samples from each species. To test for positive selection in sex-biased
+and unbiased genes, I calculated the average number of zero-fold (0D) and fourfold (4D) degenerate polymorphic and fixed sites per orthogroup using sequence
+alignments for all pairwise comparisons between samples. This calculation is
+implemented in the script orthodiver.py (www.github.com/samebdon/orthodiver).
+Orthodiver takes a set of fasta files, each representing one orthogroup containing sequences from two diploid samples, and calculates pairwise diversity metrics
+within and between samples at each level of degeneracy. Using these counts, I
+performed a McDonald-Kreitman test (and computed the fraction of variants fixed
+Ds Pn
+) per orthogroup.
+by positive selection α = 1 − D
+n Ps
+
+84
+
+
+
+CHAPTER 4
+
+4.2.6
+
+Locating putative barriers to gene flow
+
+Regions of the genome linked to putative barriers to gene flow were identified
+by analysing WGS data for four I. podalirius and four I. feisthamelii individuals
+using the gIMble software package (Laetsch et al., 2022). In order to quantify
+effective demographic parameters across the autosomes and the Z chromosome,
+only male samples were used (the homogametic sex in butterflies).
+In order to fit models of speciation with gene flow across both the autosomes and
+the Z chromosome I conducted an analysis using gIMble (Laetsch et al., 2022)
+following the methods outlined in chapter three. Support for genomic barriers
+between I. podalirius and I. feisthamelii was quantified by comparing estimates
+of me in sliding windows between a data set including four male and two female
+samples of each species and using a male-only data set. Estimates of effective
+demographic parameters are highly correlated along each autosome between the
+full analysis and the male-only analysis (Nfei/anc : Pearson’s ρ = 0.850 (Fig. E.4),
+Npod : Pearson’s ρ = 0.743 (Fig. E.5), me : Pearson’s ρ = 0.725 (Fig. E.6)). Thus, I
+use this male-only data set to quantify the distributions of SBGs in barrier regions
+on the autosomes and the Z chromosome.
+Using gIMble, 66 million 64 b pairwise blocks were generated across 167 Mb
+(38.93% of the genome, total size 429Mb) of intergenic sequence, after removing
+genic and repetitive regions. A minimum of 89% of all regions defined for analysis
+are included in blocks in and between each population. The analysis was performed using windows of size 12,500 blocks spanning a minimum of 50 kb, with
+a sliding window overlap of 2,500 (which is analogous to the window size used
+for the full data set in chapter 3). This corresponds to 14,797 windows based on
+two populations of four samples each. Parameters were estimated per window
+across the genome. To test whether barrier windows are enriched for SBGs I fitted a mixed effects logistic regression with sex bias of a window as a fixed effect
+and the chromosome of origin as a random effect.
+
+85
+
+
+
+CHAPTER 4
+
+4.3
+4.3.1
+
+Results
+Annotating the Z and the sex-specific transcriptome
+
+The Z chromosome was successfully identified by using differences in coverage
+between male and female samples and corresponds to the longest (21 Mb) scaffold in the I. podalirius assembly. Sex, as diagnosed using morphological characters, was confirmed for nine samples and corrected for one (sample RO_IP_736
+was corrected from female to male) by calculating the number of heterozygous
+sites in RNAseq reads mapping to the Z chromosome. In total, 10,583 transcripts
+of coding sequences were assembled in I. podalirius. Transcripts were defined as
+the longest isoform of complete proteins. Of these, 463 transcripts (in I. podalirius) are Z-linked and the remainder are distributed across the autosomes (Table
+E.3).
+
+4.3.2
+
+The Z chromosome in I. podalirius is enriched for FBGs
+
+In total 1,814 transcripts were labelled as MBGs and 1,825 as FBGs. This is not
+significantly different from an equal split (Fisher’s exact test, p > 0.05). Of these,
+117 transcripts were female-limited, and 319 were male-limited in expression. Relative to the genome-wide average, the Z is significantly enriched for FBGs, but not
+MBGs, despite their elevation above the genome-wide average (Fig. 4.2).
+
+4.3.3
+
+Full dosage compensation on the Z chromosome in both I. podalirius
+and I. feisthamelii
+
+In I. podalirius, there was no difference between males and females in expression levels on the Z chromosome with (Mann-Whitney U, p = 0.701) or without
+(Mann-Whitney U, p = 0.910) SBGs, although the ratio was closer to equal when
+SBGs were excluded (Table 4.2). In I. feisthamelii mean expression was greater
+on the Z chromosome in males (Mann-Whitney U, p = 1e-5), however, this effect
+disappeared in absence of SBGs (Mann-Whitney U, p = 0.808), consistent with
+86
+
+
+
+CHAPTER 4
+observations from other butterfly and moth systems (Huylmans et al., 2017). The
+ratio of female Z to autosome expression was reduced in both I. podalirius (MannWhitney U, p = 2E-5) and I. feisthamelii (Mann-Whitney U, p = 5E-9), although
+evidence for this was weaker in absence of SBGs (Mann-Whitney U, p = 0.000706
+and P = 0.000498 for each species respectively). This pattern was also observed
+in males (Male Z:A in I. podalirius p = 3E-08, in I. feisthamelii p = 0.0461), consistent with dosage compensation through down-regulation of the Z chromosome
+in males (as seen in Bombyx mori,Heliconius, and Plodia interpunctella (Walters
+& Hardcastle, 2011; Walters et al., 2015; Huylmans et al., 2017).
+
+4.3.4
+
+Faster evolution in Z-linked MBGs
+
+In total, 4,859 single-copy orthologs (SCOs) were matched into orthogroups between I. podalirius and I. feisthamelii and successfully aligned to quantify genetic
+divergence. To test for evidence of positive selection, I performed a McDonaldKreitman test on genes orthologous between species and used counts of polymorphic and diverged sites at zero-fold and four-fold degenerate positions to esn Ps
+. Neither MBGs
+timate the fraction of substitutions fixed by selection α = 1 − D
+Ds Pn
+
+(Mann-Whitney U, p = 0.0819) nor FBGs (Mann-Whitney U, p = 0.0640) showed
+a greater signal of positive selection than UBGs genome-wide. However, genes
+linked to the Z chromosome have a higher α than autosomal genes (Mann-Whitney
+U, p = 0.0402) consistent with faster rates of evolution. This difference between
+Z and autosomes is driven in particular by MBGs on the Z chromosome, which
+evolve more quickly than autosomal MBGs (Mann-Whitney U, p = 0.00250), whereas
+no difference was observed between Z-linked and autosomal FBGs (Mann-Whitney
+U, p = 0.215) or UBGs (Mann-Whitney U, p < 0.0825) (Fig. 4.3). These results
+suggest that faster sequence evolution in MBGs may have driven divergence on
+the Z chromosome. A median α of ≈ 0 and a minimum of -191 suggest that a
+large proportion of genes may harbour slightly deleterious segregating variation.
+Alternatively, the number of nonsynonymous polymorphic sites Pn is too low for
+
+87
+
+
+
+CHAPTER 4
+many genes for α to be informative. This sampling error is likely leading to underestimates of α (Charlesworth & Eyre-Walker, 2008), i.e. not all transcripts which
+have undergone positive selection are being captured.
+Of the 9,361 SCOs assigned to orthogroups, 6,238 were unbiased, 1,527 were
+male-biased, and 1,596 were female-biased in expression. I find strong evidence
+for greater divergence in expression between the two species in both MBGs and
+FBGs compared to UBGs (Mann-Whitney U, p < 0.0005 (Fig. E.1)), and greater
+divergence in expression between taxa for FBGs compared to MBGs (MannWhitney U, p < 0.0005) (Fig. E.1).
+
+4.3.5
+
+Elevated genetic differentiation and gene flow barrier density on the
+Z chromosome
+
+Average genetic diversity (π) on the Z chromosome was reduced relative to autosomal genetic diversity as we expect due to partial hemizygosity (Table 4.1).
+Both genetic divergence dxy and differentiation FST were higher on the Z chromosome relative to the autosomes (Table 4.1). Average genetic divergence was
+approximately 1.89 greater on the Z chromosome than the autosomes when accounting for differences in Ne , consistent with the large Z effect. Estimates of
+average autosome-wide π, dxy , and FST were in line with previous estimates for
+these species (Table 4.1, see chapter 3 and (Ebdon et al., 2021)). Relative to the
+global best-fitting parameters for the whole genome, both estimated Ne parameters were reduced on the Z chromosome, and the split time was slightly greater on
+the Z chromosome. Finally, whilst a low migration rate was inferred for the whole
+genome no migration was inferred on the Z (Table E.2).
+On the Z chromosome, Nfei and Npod are distributed around a mean of 347,000
+and 218,000 respectively. Nfei and Npod ranged from 100,000 to 960,000 and
+420,000 respectively. me ranged from 0 to 4e-7 (the maximum tested value) with
+a mean of 3.5e-8 (Fig. 4.4). Across the autosomes, Nfei and Npod ranged from
+100,000 to 1.3e6 with a mean of 580,000 and 100,000 to 900,000 with a mean
+88
+
+
+
+CHAPTER 4
+of 320,000 respectively. me on the autosomes also spanned the gridded values,
+with a median of 1.2e-7. (Table E.3, Fig. E.4, E.5, E.6). The mean me divided
+by the mean Ne on the Z chromosome was approximately 49% of the autosomal
+equivalent, suggesting that me is reduced below what you would expect as a result
+of differences in Ne . Thus, both effective population sizes and effective migration
+rates are lower on the Z chromosome than on the autosomes.
+The strength of reproductive isolation was calculated per window as RI = 1 − mme ,
+where me is the effective migration rate and m is the maximum migration rate in absence of selection against maladaptive immigrant alleles (Westram et al., 2022).
+As m is not known in this system, the maximum value of inferred me was used.
+Since this is an underestimate (because it still includes the genome-wide effects
+of long-term selection against heterospecific ancestry) the resulting estimate of
+reproductive isolation is conservative. Migration rate estimates correspond to a
+genome-wide RI of 0.710, ranging from 0.492 on chromosome 29 to 0.910 on the
+Z chromosome (Table E.3). These results suggest that reproductive isolation is
+widespread between the genomes of these species, particularly on the Z.
+Barriers to gene flow were labelled as windows with greater support (marginal
+likelihood) for no gene flow, i.e. me = 0 0 than the background me (me =1e-7).
+Approximately 53% of windows on the Z chromosome are barriers to gene flow
+(compared to an average of 10% on the autosomes, Fig. 4.5) and stretches of
+barrier regions vary considerably in size (Fig. D.2). I tested whether the Z chromosome is enriched for barriers to gene flow by resampling 10,000 data sets of
+windows from the genome, each of equivalent size to the number of windows on
+the Z chromosome. For each resampled data set the residual proportion of barrier loci relative to the genome-wide average was calculated. The Z chromosome
+is enriched for barriers to gene flow, based on the magnitude of the observed
+residual relative to this resampled distribution (Figs. 4.5, E.3).
+
+89
+
+
+
+CHAPTER 4
+
+4.3.6
+
+Widespread reproductive isolation between I. podalirius and
+I. feisthamelii is not associated with SBGs
+
+To test whether SBGs are more likely to be barriers to gene flow than unbiased
+genes I fitted a mixed effect logistic regression to the probability of a window being
+a barrier to gene flow (µ), including sex bias as a factor (β) and chromosome as
+a random effect (ζ) (Equation 4.1).
+
+logit(µ) = α + βsex bias + ζchromosome
+
+(4.1)
+
+I found no evidence that barrier regions are more likely to include SBGs when
+accounting for the chromosome of origin (p > 0.05). Since we observe an enrichment of barriers on the Z chromosome and increased positive selection on
+Z-linked MBGs, I tested whether genes in barrier regions on the Z chromosome
+are more likely to be male-biased than expected by chance. This was done by resampling isoforms genome-wide of equivalent size to the Z transcriptome 10,000
+times, and recording the distribution of residuals of the proportion of MBG barriers
+relative to the global MBG proportion (≈ 0.17). The proportion of Z-linked malebiased barriers (≈ 0.24) was not significantly greater than this distribution (Fig.
+E.2).
+Finally, I asked whether the gene bric-a-brac, a Z-linked gene which has been
+shown to control male UV wing iridescence in orange tip butterflies (Ficarrotta
+et al., 2022), is a barrier to gene flow in Iphiclides. I. feisthamelii differs from I.
+podalirius significantly in the UV wing patterns of males (Gaunet et al., 2019) and
+divergence in this trait may have played a role in speciation. Indeed a locus for
+bric-a-brac was found using BLAST (best of two hits using the bric-a-brac protein
+sequence of Papilio machaon with a query coverage of 100% and a similarity
+of 61%) on the Z chromosome (Fig. D.2) within a barrier region, highlighting a
+potential role of UV wing pattern switching in the speciation of Iphiclides.
+
+90
+
+
+
+CHAPTER 4
+
+Figure 4.3. The distribution of McDonald-Kreitman test α values between I. podalirius and I. feisthamelii for unbiased, MBGs, and FBGs on autosomes and the
+Z chromosome respectively. There is a greater signal of positive selection on the
+Z chromosome than the autosomes (p < 0.05), which is driven by the faster evolution in MBGs on the Z compared to male-biased autosomal genes (p < 0.0005).
+Z-linked MBGs also evolve more rapidly than unbiased Z-linked genes (p < 0.005).
+The classification of SBGs is based on expression levels in I. podalirius.
+
+92
+
+
+
+CHAPTER 4
+
+4.4
+
+Discussion
+
+Here, I have quantified genome-wide effective migration rates and sex bias in
+the adult transcriptome of two European butterfly sister species I. podalirius and
+I. feisthamelii, to investigate to what extent barriers to gene flow are associated
+with fast-evolving SBGs and the Z chromosome.
+Evidence has accumulated for the rapid evolution of SBGs, but little is known
+about if/how this might contribute to speciation. Using SCOs I show that positive
+selection has likely driven differentiation between I. podalirius and I. feisthamelii
+in MBGs on the Z chromosome to a greater degree than the autosomes. The two
+rules of speciation imply that the sex chromosomes contribute disproportionately
+to reproductive isolation. Whilst it has been demonstrated that the X/Z contributes
+disproportionately to reduced hybrid fitness, few studies have estimated barriers
+to gene flow for the Z and the autosomes. Here, I have demonstrated that the Z
+chromosome is significantly enriched for barriers to gene flow and is more genetically differentiated than the autosomes.
+Although faster male evolution cannot explain why Haldane’s rule holds in female
+heterogametic systems, faster evolution of male-limited/biased genes may be a
+driver of reproductive isolation in both male and female heterogametic systems.
+However, the relative importance and the interplay between sex-linked genes and
+SBGs and how they might contribute to speciation remains unresolved. Broadly
+we find no association between SBGs and barriers to gene flow, and we fail to
+find strict evidence for an association between Z-linked barriers and MBGs, likely
+due to the ubiquity of barriers to gene flow on the Z chromosome. However, as
+fast-evolving male-expressed genes and barriers to gene flow are concentrated
+on the Z chromosome, it may be that some MBGs have contributed to the large Z
+effect.
+
+96
+
+
+
+CHAPTER 4
+
+4.4.1
+
+Z enrichment for FBGs
+
+Sex-biased genes make up a large proportion of the Iphiclides transcriptome and
+there is substantial variance in their distribution amongst chromosomes. In particular, I find that the Z-chromosome is enriched for FBGs. This is expected as a
+consequence of selection benefiting females at recessive loci undergoing sexual
+conflict (Ellegren & Parsch, 2007). This pattern has also been observed in other
+Papilionids (Huylmans et al., 2017), however, a number of other studies have
+demonstrated enrichment of MBGs on the Lepidopteran Z chromosome (Arunkumar et al., 2009; Walters et al., 2015; Mongue & Walters, 2018; Mongue et al.,
+2022), suggesting that feminisation of the Z may be the exception rather than
+the rule. Feminisation may be associated with levels of polyandry (e.g. Papilio
+machaon is monandrous and shows a feminized Z (Huylmans et al., 2017)), however, we do not know the degree of polyandry in Iphiclides. As the Z-chromosome
+here is not enriched for MBGs, and we do not find evidence for rapid evolution in
+FBGs, this suggests that the extensive reproductive isolation we have inferred for
+the Z (in terms of me ) is not a function of its higher SBG density relative to the
+autosomes.
+
+4.4.2
+
+No faster Z evolution but faster evolution of male-biased genes on
+the Z
+
+The elevation of Mcdonald-Kreitman’s α statistic demonstrates that MBGs on the Z
+chromosome evolve more quickly than autosomal MBGs at the protein sequence
+level through positive selection and not as a consequence of increased genetic
+drift. Additionally, I find that both MBGs and FBGs are more diverged in the level
+of expression and marginally diverged at the protein level between the two species
+than unbiased genes. Faster evolution of MBGs, both in protein sequence evolution and degree of expression, has been observed across numerous taxa (see
+introduction). Neither Z-linked female-biased nor unbiased genes (marginally)
+were found to evolve faster than autosomal genes which suggests a general ab97
+
+
+
+CHAPTER 4
+sence of faster Z evolution in Iphiclides. Thus, male-expressed Z-linked genes
+are likely evolving rapidly in this system through positive selection on male traits
+rather than as a result of Z-linkage. Overall, evidence for the faster X/Z effect
+is rather mixed (Meisel & Connallon, 2013), particularly in Lepidoptera (Sackton et al., 2014; Rousselle et al., 2016; Mongue et al., 2022). It must be noted
+that the sample size of sex-biased Z-linked genes within orthogroups was smaller
+than all other gene categories, and thus there may be fewer slightly deleterious
+mutations or sampling errors introducing negative α values into these data sets
+(Charlesworth & Eyre-Walker, 2008). Additionally, if genetic drift contributes to
+the faster X/Z effect this would bias α downwards on the Z chromosome, as has
+been observed in birds (Mank et al., 2010). As a result of this, we may be underestimating the magnitude of the marginal difference in α between Z-linked and
+autosomal unbiased genes.
+
+4.4.3
+
+Elevated reproductive isolation on the Z chromosome supported by
+isolation with migration models
+
+Genetic differentiation between Iphiclides Z chromosomes was greater than between the autosomes, driven by both reduced genetic diversity and increased
+genetic divergence. This large Z effect has been demonstrated numerous times
+through both direct and indirect means (see introduction). Direct evidence for
+the large X/Z effect comes from the mapping of hybrid defects to the sex chromosomes, and indirect approaches typically demonstrate that genetic divergence
+(dxy ) and/or differentiation (FST ) are increased on the sex chromosomes relative
+to the autosomes, as I have shown in Iphiclides. However, drawing conclusions
+about past gene flow from population genetic summary statistics is beset with
+problems (Charlesworth, 1998; Cruickshank & Hahn, 2014; Presgraves, 2018).
+Here, I demonstrate using a model-based approach that long-term gene flow on
+the Z chromosome has been substantially reduced, suggesting that the large Z
+effect may have contributed significantly to the speciation history of these species.
+
+98
+
+
+
+CHAPTER 4
+Effective migration rates, after accounting for differences in Ne , are reduced on the
+Z chromosome compared to autosomes, and more than 50% of Z chromosome
+windows show no signal of historic gene flow between these species. Although
+SBGs may have contributed to the initiation of reproductive isolation, barriers may
+have spread across the Z chromosome since the onset of speciation through ’divergence hitchhiking’ (Feder & Nosil, 2010).
+
+4.4.4
+
+Faster-male evolution may contribute to the large Z effect
+
+Even though the Z is enriched for both FBGs and barriers to gene flow, across
+the full genome I find no evidence for an enrichment of SBGs in barrier regions.
+Similarly, the proportion of SBGs in barrier regions on the Z chromosomes is as
+expected by chance. Together these results suggest that SBGs are not associated with barriers to gene flow genome-wide between the two Iphiclides sister
+species. However, the finding of faster evolution of Z-linked MBGs, suggests that
+the large Z effect we observe may be partially driven by fast-evolving MBGs. This
+supports the hypothesis that fast evolution at some male-expressed genes, likely
+via sexual selection, can contribute to reproductive isolation. This is concordant
+with evidence from Drosophila which finds that loci resulting in hybrid male sterility
+are more numerous than loci resulting in hybrid female sterility (True et al., 1996;
+Hollocher & Wu, 1996; Tao & Jilin, 1993), and the observation that male genes
+are more frequently misexpressed in hybrids (Michalak & Noor, 2003).
+Although the faster male theory originates from efforts to explain Haldane’s rule in
+XY systems, this rule cannot explain the frequent observation of Haldane’s rule in
+ZW systems. However, the logic of the faster male theory suggests that reproductive isolation through more rapid male evolution may occur in both male and female heterogametic systems. Indeed, these results demonstrate that faster male
+evolution may indeed contribute to reproductive isolation in a ZW system, and
+therefore may contribute to speciation independent from Haldane’s rule. This is
+consistent with evidence from Aedes mosquitos (with nondegenerate sex chromo99
+
+
+
+CHAPTER 4
+somes) which suggests that faster-male evolution may contribute to hybrid male
+sterility (Presgraves & Orr, 1998). As I find no evidence for the faster Z effect, if
+Haldane’s rule holds in this system it is likely to be driven by dominance effects.
+Several alternative hypotheses may explain the accumulation of reproductive isolation on the Z chromosome. Firstly, barriers may accumulate at an increased rate
+on chromosomes which experience greater drift, and indeed the Ne of the Z chromosome is reduced relative to the autosomes. Secondly, the Z chromosome may
+evolve more rapidly than the autosomes, as selection may act more efficiently
+to select or purge recessive Z-linked alleles expressed in the hemizygous sex.
+Lastly, if Z-linked barriers and/or incompatibilities are recessive then gene flow
+may be reduced on the Z chromosome through selection against hybrid females.
+Whilst I demonstrate convincing evidence for the large Z effect, further research
+investigating the functional roles of barrier regions in reproductive isolation will be
+necessary to elucidate the full picture. The distribution of Z-linked barrier regions
+as well as the variance in their size suggests that there may be both large effect
+loci driving reproductive isolation in some regions, in concert with polygenic small
+effect barriers dispersed amongst others. This pattern is concordant with a recent study in Papilio butterflies, which demonstrates that widespread patterns of
+reproductive isolation on the Z chromosome underpinned hybrid abnormalities in
+female body size (Xiong et al., 2022). However, it must be noted that as the rate
+of gene flow we infer on the Z chromosome is very low, some of these regions
+may be false positives as we have weaker power to detect smaller migration rates
+(see chapter 3 discussion).
+
+4.4.5
+
+Reproductive isolation at a male UV wing pattern locus
+
+Interestingly, we find support for a barrier region on the Z around the gene brica-brac, a male-expressed gene which controls UV wing phenotypes in a sister
+species pair of Colias butterflies (Ficarrotta et al., 2022). I. feisthamelii males
+show distinct UV wing patterns which are absent in I. podalirius males (Gaunet
+100
+
+
+
+CHAPTER 4
+et al., 2019), suggesting that divergence in this trait (perhaps through reinforcement) may have contributed to reproductive isolation. That female mate choice
+may have played a role in the divergence of I. podalirius and I. feisthamelii is plausible given the ’hill-topping’ mating behaviour of these butterflies, where females
+choose territory-defending males (Corbera et al., 2011).
+
+4.4.6
+
+Limitations and outlook
+
+Quantifying sex-biased gene expression in a system such as Iphiclides for which
+only a small number of wild-caught individuals are available poses severe limitations. Firstly, insufficient numbers of samples prohibit the ability to replicate both
+across individuals and tissue types. To remain agnostic to hypotheses about the
+expression of specific genes, I have sampled a single bilateral half of each adult
+individual across multiple males and females to generate transcriptomes. This
+facilitates maximal sampling effort in replication across individuals, which is frequently minimal in SBG expression studies in non-model organisms. However,
+whole body expression data is an average across somatic and germline tissues,
+which reduces the power to detect sex bias in expression that is concentrated in
+specific tissues, in particular, SBGs that are expressed only or mainly in the gonads, and does not account for interspecies and intersex variation in gonad size.
+Secondly, as a result of sampling wild-caught individuals, there is no control for
+the many developmental/environmental determinants of expression, such as diet
+quality, disease, and social interactions including mating status. Thirdly, these
+transcriptomes are missing crucial life-cycle stages. Although sex bias is typically maximal in adulthood (Ingleby et al., 2015; Perry et al., 2014), by focusing
+on adults the transcriptome data analysed in this study does not include SBGs in
+eggs, larvae, or pupae and so will miss many of the developmental genes that lay
+down sexually dimorphic phenotypes during development (e.g. the male UV wing
+patterns in I. feisthamelii).
+Although this study replicates across samples to a greater degree than or equiv101
+
+
+
+CHAPTER 4
+alent to other similar studies on wild systems, and this transcriptome is of comparable size to similar data sets (e.g. ≈ 10600 transcripts vs ≈ 13,000 and 10,800
+as seen in two Papilio species by Huylmans et al. (2017)), it only contains ≈ 52%
+of transcripts in the Iphiclides genome (Mackintosh et al., 2022a). The number
+of SBGs observed will increase with the number of tissues investigated (Oliva
+et al., 2020). However, using a twofold threshold expression difference to label
+sex bias is typically conservative and identifies strongly sex-biased genes (Yang
+et al., 2006; Ingleby et al., 2015). It may be possible to solve all the aforementioned issues and maximise the number of captured unique transcripts by generating tissue-specific RNASeq data (ideally by sampling single cells (Darolti &
+Mank, 2022)) for individuals reared under controlled conditions, but this is a substantially larger/more costly study which would involve considerable field and lab
+work.
+In this study, I have assigned genes to chromosomes by mapping transcripts to
+the I. podalirius reference genome. In doing this, I make the assumption that I.
+feisthamelii genes are sex-linked if they are orthologous to sex-linked genes in I.
+podalirius. However, it may be that the sex chromosomes differ between I. podalirius and I. feisthamelii, particularly in gene content. Therefore if one were to
+repeat this study using I. feisthamelii as the focal species orthogroup chromosome
+assignment might vary. Ideally, one would map genes from each species to their
+respective genomes, instead of assigning genes to chromosomes in one species
+based on orthology. This would introduce a third class of orthogroup containing
+both autosomal and sex-linked genes, which may differ in rates of evolution relative to orthogroups where both orthologs are linked to chromosomes with similar
+properties.
+It would be compelling to further explore sex chromosome evolution in Iphiclides.
+Firstly, one could estimate the age of the sex chromosomes in these species, as
+it is expected that more sex-biased genes accumulate on the sex chromosomes
+over time (Lichilín et al., 2021). Should orthology persist between the Z and W in
+102
+
+
+
+CHAPTER 4
+these species, hypothetically one could estimate the age of recombination suppression using net genetic divergence. Secondly, it would be interesting to investigate whether the W chromosome in I. podalirius evolved under a model of
+degeneration by selective interference (DSI) (Charlesworth, 1978) or a model of
+degeneration by regulatory evolution (DRE) (Lenormand et al., 2020). Lenormand
+et al. (2020) demonstrates that the DRE model can explain sex chromosome degeneration over shorter timescales than the DSI model, and thus may be relevant
+for younger sex chromosomes. However, the symmetric DRE model appears to
+lead to dosage compensation via upregulation in the heterogametic sex, whereas
+in this data set the homogametic sex downregulates sex chromosome expression,
+suggesting an alternative model may be more likely (Lenormand et al., 2020). Furthermore, butterfly W chromosomes are often significantly degenerated (Dalíková
+et al., 2017), and it is difficult to locate the W with confidence given the I. podalirius
+reference assembly is male.
+Whilst it is plausible that the substantial degree of reproductive isolation on the Z
+chromosome is a result of fast-evolving MBGs, it may be that these barriers are
+not driven by single loci but by epistatic interactions between these loci and others. For example, sperm-specific genes show fast substitution rates in mammals
+(Torgerson et al., 2002), and great apes show high genetic differentiation associated with regions of low diversity at X-linked genes expressed in testis (Nam
+et al., 2015). Here I have focused on measuring the effects of individual loci, but
+to make further progress one would need to distinguish single barriers from BDMIs in order to investigate whether recessive Z-linked sex-biased loci on the Z
+chromosome act alone or are constituents of epistatic interactions conferring reproductive isolation. As such, it would be interesting to conduct further research
+into the Iphiclides hybrid zone to scan for incompatibilities (Li et al., 2022) and
+measure the large Z effect. For example, one could investigate whether BDMIs
+include Z-linked genes and are associated with female-expressed genes. Alternatively, one could test whether hybrid misexpressed genes which are typically
+
+103
+
+
+
+CHAPTER 4
+sex-biased contribute disproportionately to barrier regions and whether they are
+concentrated on the sex chromosomes. If Haldane’s rule holds in Iphiclides (which
+is likely given the evidence from many other butterfly taxa), it can of course not be
+explained by the faster evolution of MBGs (since females are the heterogametic
+sex), yet it is likely that male expressed genes contribute to speciation in a broader
+context.
+
+104
+
+
+
+Chapter 5
+General discussion
+5.1
+
+Overview
+
+In this thesis, I have investigated speciation using a number of different approaches.
+Below I briefly summarise the approach and principle conclusions of each chapter.
+In chapter two, I test i) whether species which form contact zones are younger than
+sympatric species as would be expected if sympatry represents a later stage of
+speciation and ii) whether speciation was initiated by Pleistocene glacial cycling,
+as predicted by the species pump hypothesis. Whilst evidence for gene flow was
+restricted to contact-zone pairs, they were not younger or older than sympatric
+pairs. Thus contact zones can form between considerably old species pairs, and
+the geographic relationships we observe today are likely one of many stages of
+secondary contact after repeated geographic separation. Divergence times for
+most of the 18 sister species pairs of European butterflies predate widespread
+continental glaciation, suggesting that whilst glacial cycling may have facilitated
+species divergence, it did not initiate it.
+In chapter three, I model the speciation history along the genome between two
+species of European butterflies, I. podalirius and I. feisthamelii, to identify putative barriers to gene flow. I ask whether these barriers overlap with regions of
+low recent introgression, inferred from hybrid samples using genome painting. I
+show that reproductive isolation is widespread across the Iphiclides genome of
+and that regions of low introgression across the hybrid zone are indeed associated with long-term barriers to gene flow. Intriguingly, I demonstrate that a number
+
+105
+
+
+
+CHAPTER 5
+of candidate genes controlling butterfly wing pattern differences are found within
+barrier regions. I also find that the size distribution of barriers includes several
+large regions which may have grown through divergence hitchhiking, and barriers
+principally congregate in regions of low recombination. I use the speciation history inferred from the autosomal data to guide inference on the male-only data set
+analysed in chapter four.
+Finally, in chapter four, I quantify signatures of selection and sex-biased gene expression in the Iphiclides transcriptome to ask whether sex-biased genes drive
+reproductive isolation by virtue of their rapid rates of protein evolution. To do this,
+I repeat the barrier inference of chapter three on a male-only data set, which allows a systematic comparison between the Z chromosome and the autosomes.
+I show that male-biased genes on the Z show stronger signatures of positive selection than autosomal male-biased genes. Furthermore, the Z chromosome was
+enriched for barrier loci compared to the autosomes, consistent with the large Z
+effect. Whilst sex-biased genes were not associated with barrier regions, my analyses suggest that fast-evolving male-biased genes are contributing to the large Z
+effect.
+In conclusion, my work demonstrates that speciation is likely a complex process,
+both at the biogeographic and genomic level. Firstly, in chapter two I show that
+speciation is unlikely to follow a simple progression from divergence in allopatry
+followed by increasing overlap of ranges. Secondly, in chapters three and four I
+show that the genomic architecture of speciation is likely driven by a mosaic of
+polygenic and large-effect loci, in concert with the rapid divergence of sex chromosomes.
+
+5.2
+
+Future directions
+
+Here I discuss a number of potential future avenues of research which follow from
+this work.
+
+106
+
+
+
+CHAPTER 5
+
+5.2.1
+
+Investigating the Iphiclides hybrid zone
+
+The natural extension of chapters three and four would be to investigate the Iphiclides hybrid zone in detail, including i) the identification of incompatibility interactions between barrier loci, ii) an analysis of the types/structure of hybrid individuals, iii) more finely resolved inference of hybrid introgression by fitting clines, and
+iv) the investigation of misexpression patterns in hybrids. The first three would
+require extensive sampling of resequence data and the final investigation larger
+samples of RNAseq data. I outline several ideas for future work below.
+
+5.2.1.1
+
+Inferring BDMIs
+
+Beyond barrier loci, one potential route of investigation is to infer pairs of loci that
+interact as BDMIs. Whilst barrier inference is blind to the nature of selection, me
+reflects an average of selection against migrants at a region which may or may not
+involve negative epistasis. Yet, we expect barriers to arise due to interactions with
+other loci under the BDMI model, and therefore a full understanding of barriers to
+gene flow would include a map of epistatic interactions.
+BDMIs can be located using genetic mapping, as has been conducted on various
+Drosophila species (Presgraves, 2003; Matute & Gavin-Smyth, 2014), however,
+mapping-based approaches are impractical for most butterfly systems. New approaches such as the one described by Li et al. (2022) allow inference of pairwise
+epistasis in hybrid populations from the variance in heterozygosity. This would
+require a considerable number of samples (the example data set utilises 200400 samples per hybrid population). This inference approach could be used, for
+example, to ask whether the large number of barrier loci we observe on the sex
+chromosomes are involved in either intra or interchromosomal incompatibilities, as
+expected under the “dominance hypothesis”. Such analyses could be intersected
+with sex-biased gene expression data to shed light on the phenotypes controlled
+by these interactions. In particular, it would be interesting to test whether inter-
+
+107
+
+
+
+CHAPTER 5
+actions are predominately acting on male-expressed genes, as we might expect
+under the “faster-male hypothesis”. Finally, at a more fundamental level, it would
+be interesting to ask how well a model of speciation that only involves pairwise
+BDMIs fits the Iphiclides hybrid zone data, as it is unclear what proportion of reproductive isolation one might expect to be controlled by negative epistasis. This
+could be tested by simulating under a null BDMI model. For example, one could
+simulate neutral evolution during the divergence and secondary contact of two hybridizing populations and introduce new mutations with epistatic fitness costs such
+as described by Blanckaert & Payseur (2021). These simulations could be parameterised based on the empirical description of barriers in Iphiclides assuming each
+barrier is an interacting locus. The extent of reproductive isolation underpinned by
+BDMIs in the empirical data set could then be compared to BDMIs inferred from
+said simulations.
+
+5.2.1.2
+
+Analysing the composition of the hybrid zone
+
+In chapter 3, I plot the relationship between hybrid index (HI ) and interspecific heterozygosity (H) for six samples from the Iphiclides hybrid zone. The relationship
+between these can be used to quantify the genomic structure/type of hybrid individuals and identify simple F1s, F2s, or backcross individuals. However, there is
+much more information one might glean from the relationship between these two
+summaries. For example, observations should fall between the expected distributions of simple backcrosses and the expected H under a model of Hardy-Weinberg
+equilibrium (E[H] = 2HI (1 − HI )), however, we do not yet understand how observations are distributed within this region. Simon et al. (2018) derive the expected
+relationship between HI and H for different models of hybrid breakdown based
+on Fisher’s geometric model, which assumes a complex polygenic architecture of
+local adaptation (Fisher, 1930). They include a model of optimal parent fitness
+which they demonstrate is equivalent to a model of BDMIs. Fitting these models
+to the Iphiclides hybrid zone data would require much larger samples of hybrid in-
+
+108
+
+
+
+CHAPTER 5
+dividuals than analysed in chapter three. One would ideally need to know not just
+the expected relationship between HI-H but also the joint distribution of genome
+and chromosome-wide HI-H. This could be done by utilising forward simulations
+to describe the expected distributions.
+
+5.2.1.3
+
+Fitting clines
+
+Due to the limited number of available hybrids, in chapter three, I calculated the
+variance in HI to quantify variation in introgression across the hybrid zone. This
+measure can be viewed as a very coarse (and lossy) summary of allele frequency
+clines. Larger samples that capture the full span of genetic variation across the
+hybrid zone would allow inference of clinal parameters including the steepness,
+shape and location of clines Barton & Hewitt (1985). A rich body of theory exists
+that relates clines to estimates of selection. For example, Barton (1979) mod√
+els cline width (w) as w ≡ 2m
+, demonstrating that cline width is inversely pros
+portional to the strength of selection s. The implementation and interpretation of
+cline-based approaches are well described, and as such would represent a more
+robust quantification of hybrid zone introgression than what was possible using
+the data set available here. It is important to consider that clines are still a summary of genetic variation, and thus do not utilise the data to its full extent. Thus, in
+an ideal scenario, one would want to analyse the ancestral recombination graph
+(ARG) of HZ samples for a full description of ancestry Hubisz & Siepel (2020).
+
+5.2.1.4
+
+Misexpression in hybrids
+
+Finally, intersecting misexpression in hybrid individuals with long-term me and the
+location of barriers to gene flow would be interesting. It is expected that misexpressed genes may reduce hybrid fitness, and so as act as barriers. Previous
+research has linked hybrid sterility to the misexpression of male genes in various
+Drosophila hybrids (Michalak & Noor, 2003, 2004; Sundararajan & Civetta, 2011;
+Gomes & Civetta, 2015). Whilst it is clear that the misexpression of these genes
+109
+
+
+
+CHAPTER 5
+must be a reproductive barrier, it is unclear how large a contribution misexpressed
+genes make to reproductive isolation, both in terms of the genomic span of barrier
+loci and long-term me .
+
+5.2.2
+
+Measuring selection
+
+To further improve our understanding of speciation in Iphiclides we need to describe the selective forces acting on each species. Measures of selection are required in order to determine whether barriers have evolved as a consequence of
+evolution by selection or drift. If one were to scan the genomes of both I. podalirius
+and I. feisthamelii for signatures of selective sweeps, it would be possible to ask
+whether barrier loci (and BDMIs) have been subject to adaptive selective effects.
+Tools such as SweepFinder2 (DeGiorgio et al., 2016) utilise site frequency spectra to fit models of selective sweeps along the genome. This approach accounts
+for background selection, however, it also ideally incorporates a recombination
+map, as recombination interferes with the signals of selection latent in genetic
+diversity. Alternatively, sites under selection can be located given the ARG of
+species ancestry, by identifying local distortions in coalescence frequency and
+branch lengths using a tool such as ARGweaver (Hubisz & Siepel, 2020).
+
+5.2.3
+
+Detecting structural variation within Iphiclides
+
+Given a genome assembly for I. feisthamelii, one could infer synteny between
+the genomes of I. feisthamelii and I. podalirius to investigate whether barriers to
+gene flow are associated with structural variation. As barriers to gene flow are
+broadly shaped by recombination rate variation in Iphiclides, it may be that they
+further accumulate amongst slowly recombining structural variants. For example,
+we expect gene flow to be reduced within inversions, as recombination rates are
+reduced along inverted regions (Noor et al., 2001). It has recently been demonstrated in Brenthis butterflies that effective migration rates are lower along fused
+chromosomes (Mackintosh et al., 2022b), suggesting that structural variation does
+110
+
+
+
+CHAPTER 5
+contribute to reproductive isolation.
+
+5.2.4
+
+Investigating reproductive isolation in a comparative framework
+
+In this thesis, I conduct one of the first genome scans for barriers to long-term
+gene flow. I have investigated the genomic distribution of barriers to gene flow
+in a single pair of butterfly sister species, which while differing slightly in some
+sexually dimorphic phenotypes are otherwise very similar, both morphologically
+and ecologically. Phylogenetically they sit on a long branch, with a single closely
+related species from Asia, but are otherwise fairly diverged from other Papilionids. Therefore, the speciation of I. feisthamelii and I. podalirius likely resembles a
+standard speciation event rather than an exemplary outlier. Speciation research
+frequently focuses on dramatic radiations, which may not be relevant for the bulk
+of speciation events. If we speculate that this divergence is representative of speciation in a typical sense, how might we expect the ’backbone’ of speciation to
+look from the perspective of evolutionary genomics? A natural extension is to investigate speciation using this approach in a comparative framework. It would be
+interesting to both ask which aspects of migration rate heterogeneity are ubiquitous across speciation events and how gene flow is shaped by variation in ecology
+or other expected selective pressures.
+Firstly, one could infer global models of speciation and thus migration rates for
+many pairs of species. This would allow one to ask if/how phenotypic and ecological variation is associated with reproductive isolation. For example, in chapter
+two, I infer very simple models of speciation from the pairwise distribution of differences in RNAseq data to ask whether species divergence is correlated with range
+overlap. Given the number of assumptions in the approach that are violated by
+RNASeq data, it would be much more robust to ask these questions by comparing
+models inferred using gIMble across these taxon pairs.
+Secondly, one could investigate genomic patterns of gene flow in a comparative
+framework, and ask to what degree are barriers driven by large-effect loci versus
+111
+
+
+
+CHAPTER 5
+polygenic traits. For example, one could investigate whether orthologous parts
+of the genome, such as genes, gene families, and regions, are barriers to gene
+flow in different species pairs. In Iphiclides, the overall picture suggests that barrier loci arise due to selection against gene flow acting on traits underpinned by
+polygenic architectures, as barriers are biased towards regions of low recombination both along and between chromosomes. This is consistent with previous
+research in Heliconius butterflies which demonstrated that patterns of introgression are driven by heterogeneity in recombination rates along the genome, also
+suggesting polygenic barrier architectures (Martin et al., 2019). Thus, it may be
+that selection against polygenic traits is broadly important in shaping migration
+rates across speciation events, in concert with contextually relevant large-effect
+loci.
+
+112
+
+
+
