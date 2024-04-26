@@ -8,7 +8,6 @@ Nr1-10 ChatGPT.txt & Nr1-10 Human_writtenDissertations.txt are the translated pd
 Nr1-10 ChatGPT and Human png are the corresponing word frequency illustrations 
 Nr1-10 Essay Histogram.png are the comparative Histograms created for each Essay including the Chat-GPT vs the Human Data
 
-You can find the repository here: https://git.arts.ac.uk/23045440/NLP_Project
 
 A detailed report can be found here: https://www.notion.so/NLP-Mini-Project-ed591e64930542bf9657d52e318b5298?pvs=4
 Please contact me to request access if needed
